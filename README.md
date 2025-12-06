@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MELBOURNE one-word domains still available to buy.
 
-This dataset contains 4,817 .MELBOURNE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,820 .MELBOURNE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MELBOURNE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=melbourne-oneword-domains&utm_content=description.top) (4,816) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.MELBOURNE one word do
 
 | Domain               | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.melbourne        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.melbourne      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.melbourne        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.melbourne      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.melbourne  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.melbourne      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.melbourne    | available | 60       | 2%     | 7      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.MELBOURNE one word do
 | abatic.melbourne     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.melbourne    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.melbourne   | available | 50       | 1%     | 8      |           |         |         |
-| abc.melbourne        | available | 102      | 41%    | 3      |           |         |         |
+| abc.melbourne        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.melbourne  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.melbourne  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.melbourne | available | 56       | 1%     | 10     |           |         |         |
