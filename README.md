@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MELBOURNE one-word domains still available to buy.
 
-This dataset contains 4,841 .MELBOURNE one word domains with availability, attractiveness and demand scores.
+This dataset contains 5,221 .MELBOURNE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MELBOURNE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=melbourne-oneword-domains&utm_content=description.top) (4,834) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,16 +13,16 @@ If you want to search & filters the complete database of [.MELBOURNE one word do
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/blob/main/melbourne.csv"><b>⬇️ CSV (4.84K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/blob/main/melbourne.json"><b>⬇️ JSON (4.84K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/blob/main/melbourne.csv"><b>⬇️ CSV (5.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/blob/main/melbourne.json"><b>⬇️ JSON (5.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=melbourne-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.83K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain               | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.melbourne        | premium   | 70       | 38%    | 3      |           |         |         |
-| aaron.melbourne      | premium   | 88       | 32%    | 5      |           |         |         |
+| aaa.melbourne        | premium   | 70       | 35%    | 3      |           |         |         |
+| aaron.melbourne      | premium   | 88       | 28%    | 5      |           |         |         |
 | abactinal.melbourne  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.melbourne      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.melbourne    | available | 60       | 2%     | 7      |           |         |         |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.MELBOURNE one word do
 | abatic.melbourne     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.melbourne    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.melbourne   | available | 50       | 1%     | 8      |           |         |         |
-| abc.melbourne        | premium   | 102      | 41%    | 3      |           |         |         |
+| abc.melbourne        | premium   | 102      | 39%    | 3      |           |         |         |
 | abdicable.melbourne  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.melbourne  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.melbourne | available | 56       | 1%     | 10     |           |         |         |
@@ -43,19 +43,19 @@ If you want to search & filters the complete database of [.MELBOURNE one word do
 | aberrant.melbourne   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.melbourne    | available | 56       | 2%     | 7      |           |         |         |
 | abhorrent.melbourne  | available | 54       | 3%     | 9      |           |         |         |
+| abide.melbourne      | available | 94       | 15%    | 5      |           |         |         |
 | abiding.melbourne    | available | 106      | 5%     | 7      |           |         |         |
 | abient.melbourne     | available | 54       | 1%     | 6      |           |         |         |
-| ability.melbourne    | available | 92       | 18%    | 7      |           |         |         |
-| abit.melbourne       | available | 66       | 16%    | 5      |           |         |         |
+| ability.melbourne    | available | 92       | 16%    | 7      |           |         |         |
+| abit.melbourne       | available | 66       | 12%    | 5      |           |         |         |
 | abject.melbourne     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.melbourne     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.melbourne  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.melbourne     | available | 82       | 2%     | 6      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/blob/main/melbourne.csv"><b>⬇️ CSV (4.84K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/blob/main/melbourne.json"><b>⬇️ JSON (4.84K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/blob/main/melbourne.csv"><b>⬇️ CSV (5.22K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/melbourne-oneword-domains/blob/main/melbourne.json"><b>⬇️ JSON (5.22K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=melbourne-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.83K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.MELBOURNE one word do
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
