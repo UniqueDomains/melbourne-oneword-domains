@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .melbourne one-word domains from U
 
 **Public extract:** 9,698 rows · **Live catalog:** 9,698 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/melbourne`  
 **Best for:** founders, investors, studios
 
@@ -74,16 +74,16 @@ print(df.head())
 | sex.melbourne        | resell    | —         | —             | 98             | 45     | 3      | NameCheap, Inc.                          |
 | free.melbourne       | premium   | $2,517.51 | $2,517.51     | 88             | 59     | 4      | name.com                                 |
 | clear.melbourne      | available | $53.98    | —             | 90             | 49     | 5      | namecheap                                |
-| move.melbourne       | resell    | —         | —             | 109            | 42     | 4      | GoDaddy.com, LLC                         |
+| found.melbourne      | resell    | —         | —             | 92             | 45     | 5      | Porkbun                                  |
 | good.melbourne       | premium   | $419.36   | $419.36       | 82             | 55     | 4      | name.com                                 |
 | simple.melbourne     | available | $53.98    | —             | 128            | 48     | 6      | namecheap                                |
-| near.melbourne       | resell    | —         | —             | 66             | 35     | 4      | GoDaddy.com, LLC                         |
-| alpha.melbourne      | premium   | $84.99    | $84.99        | 90             | 54     | 5      | name.com                                 |
-| trade.melbourne      | available | $53.98    | —             | 116            | 46     | 5      | namecheap                                |
-| zone.melbourne       | resell    | —         | —             | 94             | 31     | 4      | NameCheap, Inc.                          |
+| move.melbourne       | resell    | —         | —             | 109            | 42     | 4      | GoDaddy.com, LLC                         |
 | zero.melbourne       | premium   | $84.99    | $84.99        | 112            | 53     | 4      | name.com                                 |
+| trade.melbourne      | available | $53.98    | —             | 116            | 46     | 5      | namecheap                                |
+| near.melbourne       | resell    | —         | —             | 66             | 37     | 4      | GoDaddy.com, LLC                         |
+| business.melbourne   | premium   | $8,627.89 | $8,627.89     | 100            | 53     | 8      | namecheap                                |
 | snap.melbourne       | available | $53.98    | —             | 90             | 46     | 4      | namecheap                                |
-| dive.melbourne       | resell    | —         | —             | 94             | 31     | 4      | GoDaddy.com, LLC                         |
+| zone.melbourne       | resell    | —         | —             | 94             | 31     | 4      | NameCheap, Inc.                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
