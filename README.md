@@ -72,11 +72,11 @@ print(df.head())
 | power.melbourne      | premium   | $862.78   | $862.78       | 98             | 62     | 5      | namecheap                                |
 | true.melbourne       | available | $53.98    | —             | 86             | 52     | 4      | namecheap                                |
 | sex.melbourne        | resell    | —         | —             | 98             | 45     | 3      | NameCheap, Inc.                          |
-| free.melbourne       | premium   | $2,517.51 | $2,517.51     | 88             | 59     | 4      | name.com                                 |
-| clear.melbourne      | available | $53.98    | —             | 90             | 49     | 5      | namecheap                                |
+| free.melbourne       | premium   | $2,517.51 | $2,517.51     | 88             | 57     | 4      | name.com                                 |
+| simple.melbourne     | available | $53.98    | —             | 128            | 49     | 6      | namecheap                                |
 | found.melbourne      | resell    | —         | —             | 92             | 45     | 5      | Porkbun                                  |
 | good.melbourne       | premium   | $419.36   | $419.36       | 82             | 55     | 4      | name.com                                 |
-| simple.melbourne     | available | $53.98    | —             | 128            | 48     | 6      | namecheap                                |
+| clear.melbourne      | available | $53.98    | —             | 90             | 49     | 5      | namecheap                                |
 | move.melbourne       | resell    | —         | —             | 109            | 42     | 4      | GoDaddy.com, LLC                         |
 | zero.melbourne       | premium   | $84.99    | $84.99        | 112            | 53     | 4      | name.com                                 |
 | trade.melbourne      | available | $53.98    | —             | 116            | 46     | 5      | namecheap                                |
