@@ -1,22 +1,22 @@
-# Available .MELBOURNE One-Word Domains (9,698)
+# Available .MELBOURNE One-Word Domains (12,151)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C698%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C698%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C151%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .melbourne one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .melbourne one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **12,151 domains** on the canonical page below.
 
-**Public extract:** 9,698 rows · **Live catalog:** 9,698 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,151 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/melbourne`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .MELBOURNE one-word do
 
 ### Files
 
-- `melbourne.csv` — public CSV extract (9,698 rows)
-- `melbourne.json` — public JSON extract (9,698 rows)
+- `melbourne.csv` — public CSV extract (1,000 rows)
+- `melbourne.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------------- |
-| nationwide.melbourne | available | $53.98    | —             | 76             | 66     | 10     | namecheap                                |
-| cannabis.melbourne   | resell    | —         | —             | 67             | 50     | 8      | Synergy Wholesale Accreditations Pty Ltd |
-| easy.melbourne       | premium   | $84.99    | $84.99        | 128            | 68     | 4      | name.com                                 |
-| seventeen.melbourne  | available | $53.98    | —             | 84             | 62     | 9      | namecheap                                |
-| token.melbourne      | resell    | —         | —             | 82             | 46     | 5      | GoDaddy.com, LLC                         |
-| power.melbourne      | premium   | $862.78   | $862.78       | 98             | 62     | 5      | namecheap                                |
-| true.melbourne       | available | $53.98    | —             | 86             | 52     | 4      | namecheap                                |
-| sex.melbourne        | resell    | —         | —             | 98             | 45     | 3      | NameCheap, Inc.                          |
-| free.melbourne       | premium   | $2,517.51 | $2,517.51     | 88             | 57     | 4      | name.com                                 |
-| simple.melbourne     | available | $53.98    | —             | 128            | 49     | 6      | namecheap                                |
-| found.melbourne      | resell    | —         | —             | 92             | 45     | 5      | Porkbun                                  |
-| good.melbourne       | premium   | $419.36   | $419.36       | 82             | 55     | 4      | name.com                                 |
-| clear.melbourne      | available | $53.98    | —             | 90             | 49     | 5      | namecheap                                |
-| move.melbourne       | resell    | —         | —             | 109            | 42     | 4      | GoDaddy.com, LLC                         |
-| zero.melbourne       | premium   | $84.99    | $84.99        | 112            | 53     | 4      | name.com                                 |
-| trade.melbourne      | available | $53.98    | —             | 116            | 46     | 5      | namecheap                                |
-| near.melbourne       | resell    | —         | —             | 66             | 37     | 4      | GoDaddy.com, LLC                         |
-| business.melbourne   | premium   | $8,627.89 | $8,627.89     | 100            | 53     | 8      | namecheap                                |
-| snap.melbourne       | available | $53.98    | —             | 90             | 46     | 4      | namecheap                                |
-| zone.melbourne       | resell    | —         | —             | 94             | 31     | 4      | NameCheap, Inc.                          |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| travelers.melbourne    | available | $53.98    | —             | 58             | 61     | 9      | namecheap |
+| online.melbourne       | premium   | $2,674.93 | —             | 70             | 62     | 7      | name.com  |
+| farmers.melbourne      | available | $53.98    | —             | 54             | 59     | 7      | namecheap |
+| Books.melbourne        | premium   | $3,000.69 | $3,000.69     | 52             | 49     | 5      | namecheap |
+| skills.melbourne       | available | $53.98    | —             | 58             | 47     | 6      | namecheap |
+| Ryan.melbourne         | premium   | $100.03   | $100.03       | 60             | 44     | 4      | namecheap |
+| lets.melbourne         | available | $53.98    | —             | 77             | 39     | 4      | namecheap |
+| Tools.melbourne        | premium   | $500.12   | $500.12       | 56             | 40     | 5      | namecheap |
+| neuroscience.melbourne | available | $53.98    | —             | 80             | 37     | 12     | namecheap |
+| events.melbourne       | premium   | $2,681.24 | —             | 68             | 37     | 6      | name.com  |
+| trends.melbourne       | available | $53.98    | —             | 60             | 32     | 6      | namecheap |
+| homes.melbourne        | premium   | $2,679.38 | —             | 86             | 34     | 5      | name.com  |
+| inspiration.melbourne  | available | $53.98    | —             | 88             | 30     | 11     | namecheap |
+| tickets.melbourne      | premium   | $89.31    | —             | 64             | 34     | 7      | name.com  |
+| commonground.melbourne | available | $53.98    | —             | 74             | 28     | 13     | namecheap |
+| payments.melbourne     | premium   | $178.62   | —             | 58             | 33     | 8      | name.com  |
+| pages.melbourne        | available | $53.98    | —             | 52             | 28     | 5      | namecheap |
+| quotes.melbourne       | premium   | $89.31    | —             | 58             | 29     | 6      | name.com  |
+| gods.melbourne         | available | $53.98    | —             | 72             | 27     | 4      | namecheap |
+| blocks.melbourne       | premium   | $446.56   | —             | 53             | 29     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,698-row public sample | 9,698 live domains                               |
+| 1,000-row public sample | 12,151 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
