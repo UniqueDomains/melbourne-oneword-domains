@@ -74,13 +74,13 @@ print(df.head())
 | events.melbourne       | premium   | $2,681.24 | —             | 68             | 37     | 6      | name.com  |
 | slots.melbourne        | available | $53.98    | —             | 49             | 31     | 5      | namecheap |
 | homes.melbourne        | premium   | $2,679.38 | —             | 86             | 34     | 5      | name.com  |
-| inspiration.melbourne  | available | $53.98    | —             | 88             | 30     | 11     | namecheap |
+| gods.melbourne         | available | $53.98    | —             | 72             | 29     | 4      | namecheap |
 | tickets.melbourne      | premium   | $89.31    | —             | 64             | 34     | 7      | name.com  |
 | commonground.melbourne | available | $53.98    | —             | 74             | 28     | 13     | namecheap |
 | payments.melbourne     | premium   | $178.62   | —             | 58             | 33     | 8      | name.com  |
 | pages.melbourne        | available | $53.98    | —             | 52             | 28     | 5      | namecheap |
 | quotes.melbourne       | premium   | $89.31    | —             | 58             | 29     | 6      | name.com  |
-| gods.melbourne         | available | $53.98    | —             | 72             | 27     | 4      | namecheap |
+| inspiration.melbourne  | available | $53.98    | —             | 88             | 27     | 11     | namecheap |
 | blocks.melbourne       | premium   | $446.56   | —             | 53             | 29     | 6      | name.com  |
 | tips.melbourne         | available | $53.98    | —             | 80             | 26     | 4      | namecheap |
 | cams.melbourne         | premium   | $178.62   | —             | 52             | 29     | 4      | name.com  |
