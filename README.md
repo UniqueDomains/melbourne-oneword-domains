@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .melbourne one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,649 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,649 domains · **Median ask:** $140.44 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,649 domains · **Median ask:** $131.00 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/melbourne`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/melbourne`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MELBOURNE one-word do
 
 ### Files
 
-- `melbourne.csv` — public CSV extract (1,000 rows)
-- `melbourne.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `melbourne.csv`, public CSV extract (1,000 rows)
+- `melbourne.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| farmers.melbourne      | available | $53.98    | —             | 54             | 59     | 7      | namecheap |
-| online.melbourne       | premium   | $2,674.93 | —             | 70             | 62     | 7      | name.com  |
-| skills.melbourne       | available | $53.98    | —             | 58             | 47     | 6      | namecheap |
-| Ryan.melbourne         | premium   | $100.03   | $100.03       | 60             | 44     | 4      | namecheap |
-| neuroscience.melbourne | available | $53.98    | —             | 80             | 37     | 12     | namecheap |
-| Tools.melbourne        | premium   | $500.12   | $500.12       | 56             | 40     | 5      | namecheap |
-| trends.melbourne       | available | $53.98    | —             | 60             | 32     | 6      | namecheap |
-| events.melbourne       | premium   | $2,681.24 | —             | 68             | 37     | 6      | name.com  |
-| slots.melbourne        | available | $53.98    | —             | 49             | 31     | 5      | namecheap |
-| homes.melbourne        | premium   | $2,679.38 | —             | 86             | 34     | 5      | name.com  |
-| gods.melbourne         | available | $53.98    | —             | 72             | 29     | 4      | namecheap |
-| tickets.melbourne      | premium   | $89.31    | —             | 64             | 34     | 7      | name.com  |
-| commonground.melbourne | available | $53.98    | —             | 74             | 28     | 13     | namecheap |
-| payments.melbourne     | premium   | $178.62   | —             | 58             | 33     | 8      | name.com  |
-| pages.melbourne        | available | $53.98    | —             | 52             | 28     | 5      | namecheap |
-| quotes.melbourne       | premium   | $89.31    | —             | 58             | 29     | 6      | name.com  |
-| inspiration.melbourne  | available | $53.98    | —             | 88             | 27     | 11     | namecheap |
-| blocks.melbourne       | premium   | $446.56   | —             | 53             | 29     | 6      | name.com  |
-| tips.melbourne         | available | $53.98    | —             | 80             | 26     | 4      | namecheap |
-| cams.melbourne         | premium   | $178.62   | —             | 52             | 29     | 4      | name.com  |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| RGB.melbourne  | available | $53.98    | —             | medium         | low    | 3      | namecheap |
+| ADS.melbourne  | premium   | $180.61   | —             | high           | medium | 3      | name.com  |
+| able.melbourne | available | $53.98    | —             | high           | low    | 4      | namecheap |
+| all.melbourne  | premium   | $167.87   | $167.87       | high           | medium | 3      | name.com  |
+| bath.melbourne | available | $53.98    | —             | high           | low    | 4      | namecheap |
+| Ann.melbourne  | premium   | $181.30   | —             | high           | low    | 3      | name.com  |
+| bear.melbourne | available | $53.98    | —             | high           | low    | 4      | namecheap |
+| apt.melbourne  | premium   | $179.65   | —             | high           | low    | 3      | name.com  |
+| bond.melbourne | available | $53.98    | —             | high           | low    | 4      | namecheap |
+| awe.melbourne  | premium   | $179.77   | —             | high           | low    | 3      | name.com  |
+| brag.melbourne | available | $53.98    | —             | high           | low    | 4      | namecheap |
+| bag.melbourne  | premium   | $179.92   | —             | high           | low    | 3      | name.com  |
+| bush.melbourne | available | $53.98    | —             | medium         | low    | 4      | namecheap |
+| beg.melbourne  | premium   | $181.28   | —             | medium         | low    | 3      | name.com  |
+| cent.melbourne | available | $53.98    | —             | high           | low    | 4      | namecheap |
+| big.melbourne  | premium   | $168      | $168          | high           | medium | 3      | name.com  |
+| cons.melbourne | available | $53.98    | —             | high           | low    | 4      | namecheap |
+| boy.melbourne  | premium   | $448.28   | —             | medium         | low    | 3      | name.com  |
+| crap.melbourne | available | $53.98    | —             | medium         | low    | 4      | namecheap |
+| bus.melbourne  | premium   | $449.88   | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are single-word names on the .melbourne extension. That makes the main decision less about TLD variety and more about the quality of the word paired with a location-specific ending. Short, clear words such as seek.melbourne or develop.melbourne can read cleanly and stay memorable, while longer or less precise words may feel narrower. With a median ask of 140.44, price discipline matters less than choosing a word that fits the intended audience, is easy to say, and does not create obvious trademark concerns. For founders, the best picks are memorable and specific enough to own. For investors, the stronger candidates are words with broad commercial relevance and cleaner resale logic.
+This is a list of one-word .melbourne domain names spanning everyday words, compound terms, and playful brand-style picks such as finals.melbourne, bedframe.melbourne, and flaxseed.melbourne. With 12,649 options and a median ask near $131, the selection covers a wide price range rather than a single niche. There's no dominant industry theme here, so it suits founders scanning for a ownable name and investors scanning for volume and spread across a geographic TLD.
 
-- All names in this set use the .melbourne extension
-- Median ask across the selection is 140.44
-- Favor clear, broad words over narrow or awkward terms
-- Check trademark overlap before valuing brandability
+- 12,649 one-word .melbourne domains, median ask ~$131
+- Mix of everyday words, compounds, and playful brand names
+- Ownable now across a wide range of one-word options
+- Compare price and renewal before you pick a domain
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
