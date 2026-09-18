@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 3db88b37-0605-4feb-a47b-aa00c65807e4,McDonald.melbourne,available,53.98,,high,low,8,namecheap,,,
 856b1f5b-16db-4723-b15f-248e36e550aa,existence.melbourne,available,53.98,,high,low,9,namecheap,,,
-42ff3882-ff0d-4eb0-a192-c0bade18a6e2,efficient.melbourne,available,53.98,,high,low,9,namecheap,,,
+42ff3882-ff0d-4eb0-a192-c0bade18a6e2,efficient.melbourne,available,58,58,high,low,9,namesilo,,,17/09/2026 10:03
 2ca97744-3328-49ca-8ae1-23d27859776a,Gregg.melbourne,premium,90.3,,medium,low,5,name.com,,,
 89f9c197-3795-44ae-b473-70d99f6471b1,lights.melbourne,premium,446.99,,high,low,6,name.com,,,
 d97b92fd-ebfe-4cb9-b146-88a35014d77b,whogoesthere.melbourne,available,53.98,,low,low,14,namecheap,,,
