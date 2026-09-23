@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 3db88b37-0605-4feb-a47b-aa00c65807e4,mcdonald.melbourne,available,53.98,,high,low,8,namecheap,,,
 856b1f5b-16db-4723-b15f-248e36e550aa,existence.melbourne,available,53.98,,high,low,9,namecheap,,,
-42ff3882-ff0d-4eb0-a192-c0bade18a6e2,efficient.melbourne,available,58,58,high,low,9,namesilo,,,17/09/2026 10:03
+42ff3882-ff0d-4eb0-a192-c0bade18a6e2,efficient.melbourne,available,58,58,medium,low,9,namesilo,,,23/09/2026 05:33
 2ca97744-3328-49ca-8ae1-23d27859776a,gregg.melbourne,premium,90.3,,medium,low,5,name.com,,,
 89f9c197-3795-44ae-b473-70d99f6471b1,lights.melbourne,premium,446.99,,high,low,6,name.com,,,
 d97b92fd-ebfe-4cb9-b146-88a35014d77b,whogoesthere.melbourne,available,53.98,,low,low,14,namecheap,,,
@@ -15,7 +15,7 @@ ea3f384c-2eb4-448f-82be-326fda07ec13,cinema.melbourne,available,58,58,medium,low
 63bef77f-4c33-4f98-aa21-e87aaacf2463,tornadowarning.melbourne,available,53.98,,medium,low,15,namecheap,,,
 25e17f72-6b99-4c30-92db-285db1277464,gasstation.melbourne,available,53.98,,medium,low,11,namecheap,,,
 59c1e9d9-22de-4d48-9de5-b65941523476,tornado.melbourne,available,53.98,,high,low,7,namecheap,,,
-efbcf070-a92d-41d7-8fde-61cb9cd615ed,prank.melbourne,available,53.98,,high,low,5,namecheap,,,
+efbcf070-a92d-41d7-8fde-61cb9cd615ed,prank.melbourne,available,58,58,medium,low,5,namesilo,,,22/09/2026 06:23
 10b80b80-1124-4f1c-bc11-64b76985934f,departure.melbourne,available,44.98,53.98,medium,low,9,namecheap,,,08/09/2026 12:08
 0c3fdffb-9b39-4f07-81c2-5088baab29a1,shopping.melbourne,available,,,medium,low,8,,,,
 7e046c8f-f7a4-470c-a8a8-e86c0fd42a9f,terror.melbourne,available,53.98,,medium,low,6,namecheap,,,
@@ -26,7 +26,7 @@ b168f5d0-1aa5-4ca8-99c7-cbd120edd75b,gopublic.melbourne,available,53.98,,medium,
 450caba3-599e-4c90-b8e6-2808163ba065,givebirth.melbourne,available,53.98,,high,low,10,namecheap,,,
 2e1d27aa-d22a-4ef4-b448-976652247bc3,warp.melbourne,available,53.98,,high,medium,4,namecheap,,,
 055150b0-6dcf-4e4a-82c3-4dce44d2c653,succeed.melbourne,premium,90.64,,high,low,7,name.com,,,
-e7db28d9-a250-4872-ade0-6426abb31359,arithmetic.melbourne,available,53.98,,high,low,10,namecheap,,,
+e7db28d9-a250-4872-ade0-6426abb31359,arithmetic.melbourne,available,58,58,low,low,10,namesilo,,,22/09/2026 07:53
 3da60f98-09bc-4d45-9041-e8c8d383a218,siamesecat.melbourne,available,53.98,,high,low,11,namecheap,,,
 9070703c-31ce-4d47-9bb9-65f63a213c91,bastioned.melbourne,available,44.98,53.98,low,low,9,namecheap,,,09/08/2026 00:12
 90aaf9d3-96f8-4282-a9c5-fc6f978550c1,giveblood.melbourne,available,53.98,,high,low,10,namecheap,,,
@@ -59,8 +59,8 @@ cd413695-aa92-4425-9357-51093a75908e,bryan.melbourne,premium,89.66,,medium,low,5
 1cb5149f-7c92-4075-bfae-f279673e9514,amitotic.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
 5f2d5b6b-7666-40cf-b71a-7b07f392d6f9,whatthe.melbourne,available,53.98,,low,low,8,namecheap,,,
 92085f53-b5b5-4500-8af5-416624637c99,fucksome.melbourne,available,53.98,,medium,low,8,namecheap,,,
-668a2b2c-7eaf-4cb8-8a51-86eefc95a586,teenager.melbourne,available,53.98,,medium,low,8,namecheap,,,
-e9771499-f746-4933-bf30-8e20f8d198f4,investment.melbourne,available,58,58,medium,low,10,namesilo,,,19/09/2026 04:38
+668a2b2c-7eaf-4cb8-8a51-86eefc95a586,teenager.melbourne,available,84.99,84.99,low,low,8,name.com,,,21/09/2026 19:08
+e9771499-f746-4933-bf30-8e20f8d198f4,investment.melbourne,premium,924.33,924.33,medium,low,10,namecheap,,,23/09/2026 02:53
 48124fc2-70c9-41dd-aa67-db90c758eceb,indecent.melbourne,available,53.98,,medium,low,8,namecheap,,,
 4d7eaebf-d464-42d4-9307-b96863b69e91,because.melbourne,available,53.98,,high,low,7,namecheap,,,
 445287bf-54f1-45f5-aa1e-8cd8140e9d4b,lazuline.melbourne,available,44.98,53.98,low,low,8,namecheap,,,08/08/2026 03:18
@@ -71,7 +71,7 @@ d039aaa2-f974-4f01-b146-3f3544961dfb,keepitreal.melbourne,available,53.98,,high,
 e30c76c4-31cf-436d-a757-a7889f85acb2,serialkiller.melbourne,available,53.98,,medium,low,13,namecheap,,,
 03a2cb4c-135b-43a1-8efe-464aa8611f1f,recipe.melbourne,premium,90.46,,high,low,6,name.com,,,
 575a6ab2-1b89-436f-9ffc-5506d34d3fe6,visible.melbourne,available,53.98,,high,low,7,namecheap,,,
-fce84aef-d593-47ad-9023-451a5bc7ea41,ethereal.melbourne,available,53.98,,high,low,8,namecheap,,,
+fce84aef-d593-47ad-9023-451a5bc7ea41,ethereal.melbourne,available,44.98,53.98,medium,low,8,namecheap,,,21/09/2026 21:04
 c3ed92de-f5e9-4c97-82bb-76e2103f319b,lottery.melbourne,premium,9049.62,,high,low,7,name.com,,,
 1a892ebd-c749-48a4-aead-ee84d9cbe1c7,anytime.melbourne,available,53.98,,high,low,7,namecheap,,,
 43316aa2-13c0-4871-8b52-cd97d27a6379,anorthitic.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
@@ -108,18 +108,18 @@ a20c18f5-f1d0-4dcd-9870-f04eaca1f21b,mahfucka.melbourne,available,53.98,,medium,
 c07168c8-005d-4fcf-8b46-e4ff5a0f13c5,party.melbourne,available,58,58,medium,low,5,namesilo,,,19/09/2026 09:39
 c8cef8bb-8f7e-4af8-9638-bfc62436a404,figureout.melbourne,available,53.98,,high,low,10,namecheap,,,
 94a87542-1a8e-458d-bea9-4276620b097c,befitting.melbourne,available,44.98,53.98,low,low,9,namecheap,,,09/08/2026 08:38
-5897c44b-3717-4096-a28c-03476e36e0af,office.melbourne,available,58,58,medium,low,6,namesilo,,,19/09/2026 07:57
+5897c44b-3717-4096-a28c-03476e36e0af,office.melbourne,available,58,58,medium,low,6,namesilo,,,23/09/2026 05:29
 07a19d62-0c75-43c8-a9ec-b7b3f925fc78,airline.melbourne,premium,429.46,429.46,high,low,7,namecheap,,,
 8327bf14-882c-49a1-8f37-52dc5d48b99f,arty.melbourne,available,44.98,53.98,low,low,4,namecheap,,,06/08/2026 23:51
 c66c1a96-9d21-4bba-9714-a802c370c696,hallwaymonitor.melbourne,available,53.98,,medium,low,15,namecheap,,,
 f556ec2b-da95-4a9b-9a04-fe05f6188fe4,letterruling.melbourne,available,53.98,,medium,low,13,namecheap,,,
-e0383e0f-2c1c-4cc6-97fa-afd63e45df53,improvise.melbourne,available,53.98,,high,low,9,namecheap,,,
+e0383e0f-2c1c-4cc6-97fa-afd63e45df53,improvise.melbourne,available,58,58,medium,low,9,namesilo,,,21/09/2026 16:45
 831060f8-a69b-4898-950c-fb2d15a0f23b,active.melbourne,available,58,58,medium,low,6,namesilo,,,20/09/2026 03:06
 5ea13f9d-dde9-4bd2-91b0-ddbf524b5825,unsatisfactory.melbourne,available,53.98,,medium,low,14,namecheap,,,
 fea9bf51-6bbd-45cf-b642-d55f7d6b51e1,lyrics.melbourne,premium,89.34,,high,low,6,name.com,,,
 37bcb7b7-a3c0-449d-9423-d7a949aeae09,browsing.melbourne,available,53.98,,high,low,8,namecheap,,,
 8e6a2369-a01d-4190-a0a0-15ca7acc5c0f,lowercase.melbourne,available,53.98,,high,low,9,namecheap,,,
-37f5bd95-d972-4a67-9ea4-d8e946609bab,whatsoever.melbourne,available,53.98,,medium,low,10,namecheap,,,
+37f5bd95-d972-4a67-9ea4-d8e946609bab,whatsoever.melbourne,available,58,58,low,low,10,namesilo,,,22/09/2026 06:59
 7ec7f065-7f63-42e5-89ba-7b8fea8decbe,grabby.melbourne,available,44.98,53.98,low,low,6,namecheap,,,07/08/2026 21:58
 649c468c-71f1-41b9-92aa-267eb8812c53,when.melbourne,available,53.98,,high,low,4,namecheap,,,
 35d6d47f-b32e-4bad-aecf-97befaecf85d,niner.melbourne,available,44.98,53.98,low,low,5,namecheap,,,
@@ -164,7 +164,7 @@ a8eb9ccb-a409-4d5c-9150-07858da7c589,breatheeasy.melbourne,available,53.98,,high
 e1081cd9-275b-433e-a4e9-fdccdcaad74a,those.melbourne,available,53.98,,medium,low,5,namecheap,,,
 caebd993-988e-46d4-9a82-d775f4466185,identifier.melbourne,available,53.98,,high,low,10,namecheap,,,
 be852495-27ee-43a2-94f8-37d84971e2fe,rheumatoid.melbourne,available,44.98,53.98,low,low,10,namecheap,,,06/08/2026 23:10
-5f7df34f-d138-4f0a-8edd-ea4a86c5960b,older.melbourne,available,53.98,,medium,low,5,namecheap,,,
+5f7df34f-d138-4f0a-8edd-ea4a86c5960b,older.melbourne,available,58,58,low,low,5,namesilo,,,21/09/2026 22:32
 adfe4494-fde4-4061-8604-1087e4115fb2,howshouldiknow.melbourne,available,53.98,,medium,low,17,namecheap,,,
 c7d91ecd-bc80-4f80-b272-e4a10198f4be,secret.melbourne,premium,897.33,,high,medium,6,name.com,,,
 fcd467e0-ca3a-4844-99a3-55d43e4f7de7,returning.melbourne,available,53.98,,high,low,9,namecheap,,,
@@ -173,14 +173,14 @@ fcd467e0-ca3a-4844-99a3-55d43e4f7de7,returning.melbourne,available,53.98,,high,l
 cd674359-b1f1-409f-b4a0-c8ebf9275572,grandparent.melbourne,available,58,58,medium,low,11,namesilo,,,19/09/2026 04:27
 82205bcf-5a54-48c0-8b6f-0731df997665,monthly.melbourne,available,53.98,,high,low,7,namecheap,,,
 ea14b4c0-375d-409f-ba1f-907e1a6cc92e,swerve.melbourne,available,53.98,,high,low,6,namecheap,,,
-0d8571a1-2bda-4278-9d8d-69c998e45b7d,authorized.melbourne,available,53.98,,high,low,10,namecheap,,,
+0d8571a1-2bda-4278-9d8d-69c998e45b7d,authorized.melbourne,available,44.98,53.98,medium,low,10,namecheap,,,22/09/2026 13:48
 54288713-a2b8-4b63-b9db-562f9cf28f99,bantering.melbourne,available,44.98,53.98,low,low,9,namecheap,,,08/08/2026 14:34
 d1f38824-5197-489f-b860-84c3633de310,void.melbourne,available,53.98,,high,medium,4,namecheap,,,
 c2351764-6011-44e1-a807-080fac4c348b,recorded.melbourne,available,53.98,,medium,low,8,namecheap,,,
 ddd279c0-e3d3-47a0-ab0b-ac9b057eae9e,each.melbourne,available,53.98,,high,low,4,namecheap,,,
 3fd8dc33-69a2-421c-99ba-997517982d07,criminal.melbourne,available,53.98,,high,low,8,namecheap,,,
 5bf13b78-ccad-4244-adc1-5da76cea7693,committed.melbourne,available,53.98,,high,low,9,namecheap,,,
-6ffe24fd-6bc5-49a9-8e70-560701d69077,aaron.melbourne,premium,86.28,86.28,high,low,5,namecheap,,,
+6ffe24fd-6bc5-49a9-8e70-560701d69077,aaron.melbourne,premium,86.28,86.28,medium,low,5,namecheap,,,
 745ece77-b9ee-47bf-9988-b954999fc6d6,grimy.melbourne,available,44.98,53.98,low,low,5,namecheap,,,09/08/2026 09:25
 15079ada-f452-48b6-aee1-80b1fe9ff3a2,middle.melbourne,available,53.98,,high,low,6,namecheap,,,
 db7105f0-d381-464f-964b-cb612291b842,memorize.melbourne,available,53.98,,high,low,8,namecheap,,,
@@ -202,7 +202,7 @@ f7e5b185-a6e9-47c1-9040-a048a42afa13,teddybear.melbourne,available,53.98,,high,l
 0042a8f8-9427-40f5-bdd1-4a6de107eb6f,from.melbourne,premium,58,58,medium,low,4,namesilo,,,08/09/2026 08:57
 76331342-be0a-4baf-9e74-9f7db7d6a800,pauliii.melbourne,available,53.98,,medium,low,8,namecheap,,,
 bd264901-2944-4a95-a97f-75cc2819f2e7,rain.melbourne,available,44.98,53.98,medium,low,4,namecheap,,,19/09/2026 07:28
-4f4ac718-417d-445a-b946-f66e6162f0ce,biological.melbourne,available,53.98,,high,low,10,namecheap,,,
+4f4ac718-417d-445a-b946-f66e6162f0ce,biological.melbourne,available,84.99,84.99,medium,low,10,name.com,,,22/09/2026 20:55
 428762b1-783e-4a5c-bcd1-3c277331f9e5,baleful.melbourne,available,44.98,53.98,low,low,7,namecheap,,,08/08/2026 09:39
 a5fb93ae-f52a-4f3c-9e00-37fc836595a1,nineteenth.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
 e1572cc4-72b9-42a3-939f-a990a2b4bf3f,lateron.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
@@ -253,7 +253,7 @@ dff8e9e3-349e-4fb0-a30c-37cc822fe154,luminous.melbourne,available,44.98,53.98,me
 dd96d69a-2035-42e8-b7c6-7f76ae0283ee,courteous.melbourne,available,53.98,,high,low,9,namecheap,,,
 c62df954-06d8-417a-985b-77f2fcaa5c5a,trousers.melbourne,available,53.98,,medium,low,8,namecheap,,,
 159698f5-f967-4da4-9d84-68619d598f03,cent.melbourne,available,44.98,53.98,medium,low,4,namecheap,,,08/09/2026 08:07
-ae138941-890b-4138-8618-3660ae7ed81c,altruistic.melbourne,available,53.98,,high,low,10,namecheap,,,
+ae138941-890b-4138-8618-3660ae7ed81c,altruistic.melbourne,available,58,58,medium,low,10,namesilo,,,22/09/2026 02:48
 922e7e3e-36d8-4244-b1af-8cdc2c5c3297,nicky.melbourne,premium,90.22,,medium,low,5,name.com,,,
 1b3c1b9f-21c1-476b-bbad-3fd79c48e8e2,shaking.melbourne,available,53.98,,medium,low,7,namecheap,,,
 edd18e5a-62a0-41cf-a2e7-f80e99ba3976,ads.melbourne,premium,180.61,,high,medium,3,name.com,,,
@@ -267,7 +267,7 @@ c01d1e4a-fd75-462f-9e09-8c527224f200,importantly.melbourne,available,53.98,,medi
 810692cc-d6c7-45ab-86b3-0b64c93ee7c7,givesomethingago.melbourne,available,53.98,,high,low,19,namecheap,,,
 353190c4-8bcd-4d35-b6fb-b4bc85fa097c,idolised.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
 e1425658-7223-4b6e-98fa-f330904b7341,xmastree.melbourne,available,53.98,,high,low,9,namecheap,,,
-5f3df8ee-9547-45d6-a1b7-ebce50627528,playing.melbourne,available,53.98,,high,low,7,namecheap,,,
+5f3df8ee-9547-45d6-a1b7-ebce50627528,playing.melbourne,available,58,58,medium,low,7,namesilo,,,21/09/2026 16:27
 54b39804-b450-4aa6-849a-2197a823c070,autarchic.melbourne,available,44.98,53.98,low,low,9,namecheap,,,07/08/2026 18:36
 a8ee9e58-0851-4da4-abdb-67c3b79fa04c,proficiency.melbourne,available,53.98,,medium,low,11,namecheap,,,
 ff3283bb-cb58-4c85-a618-4c5eed4de5a7,europe.melbourne,premium,179.3,,medium,low,6,name.com,,,
@@ -275,10 +275,10 @@ ff3283bb-cb58-4c85-a618-4c5eed4de5a7,europe.melbourne,premium,179.3,,medium,low,
 5ad1736f-a19a-4935-9d55-1deee3671a07,introduction.melbourne,available,53.98,,high,low,12,namecheap,,,
 357d88ef-b5b7-4a3a-8eec-baf3704c736e,stigmatic.melbourne,available,44.98,53.98,low,low,9,namecheap,,,
 eaca47bb-4aaf-4e06-b325-9295c59d2bb7,missinginaction.melbourne,available,53.98,,medium,low,17,namecheap,,,
-de672751-7538-43b1-a24c-9e9131341cc5,advanced.melbourne,available,53.98,,high,low,8,namecheap,,,
-835a5c08-f6b2-4fca-9db7-45ba4c3a2dfc,better.melbourne,available,53.98,,high,medium,6,namecheap,,,
+de672751-7538-43b1-a24c-9e9131341cc5,advanced.melbourne,available,58,58,medium,low,8,namesilo,,,21/09/2026 20:46
+835a5c08-f6b2-4fca-9db7-45ba4c3a2dfc,better.melbourne,available,44.98,53.98,medium,low,6,namecheap,,,22/09/2026 20:11
 d93013ae-adca-4642-a8a7-c553606fb92d,aluminous.melbourne,available,44.98,53.98,low,low,9,namecheap,,,
-b391662a-ec11-414e-8a54-0166e2cf5f77,selfless.melbourne,available,53.98,,high,low,8,namecheap,,,
+b391662a-ec11-414e-8a54-0166e2cf5f77,selfless.melbourne,available,58,58,medium,low,8,namesilo,,,22/09/2026 02:51
 6e70cb47-b1e7-4c96-9332-ae9cf297a871,facing.melbourne,available,53.98,,high,low,6,namecheap,,,
 2d151626-1a8c-436c-a616-6e967fec64c6,thirdclass.melbourne,available,53.98,,low,low,11,namecheap,,,
 008fb7d7-1742-4aba-a873-333df5125d47,lavaliermicrophone.melbourne,available,53.98,,high,low,19,namecheap,,,
@@ -318,11 +318,11 @@ bb49350a-30c5-499c-a8bb-ff3cb2442eb9,evitable.melbourne,available,44.98,53.98,lo
 f3beed8a-5e29-467b-a6d1-7dee7e3e68cd,maudlin.melbourne,available,44.98,53.98,low,low,7,namecheap,,,09/08/2026 00:42
 fe122418-e22d-4afe-b1a8-741a097bedfd,anarchic.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
 b252c489-ae43-482e-88a0-f8efeadf065e,treatment.melbourne,available,53.98,,high,low,9,namecheap,,,
-06459f0c-67ea-4fa2-9d50-a8282ec1b8ac,accredited.melbourne,available,53.98,,medium,low,10,namecheap,,,
+06459f0c-67ea-4fa2-9d50-a8282ec1b8ac,accredited.melbourne,available,58,58,low,low,10,namesilo,,,21/09/2026 15:54
 070cc224-58f2-4b77-9813-c73cf5cad4ef,registered.melbourne,available,53.98,,medium,low,10,namecheap,,,
 02a5ca58-a5c1-4f19-af77-955c145f0dfa,eclipse.melbourne,available,53.98,,high,low,7,namecheap,,,
 fb9d10ee-4302-4272-b4e2-a0ba82a9702e,fever.melbourne,available,53.98,,high,low,5,namecheap,,,
-7fe04fb5-6d65-41bf-86a2-7812eadd7fd2,keen.melbourne,available,53.98,,medium,low,4,namecheap,,,
+7fe04fb5-6d65-41bf-86a2-7812eadd7fd2,keen.melbourne,available,58,58,low,low,4,namesilo,,,22/09/2026 16:55
 1ce7311c-6671-42ff-8aa5-4b6c3c7d4f3b,allergenic.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
 3cced02a-bc92-47f0-b7e9-6d4f4543bf33,economic.melbourne,available,53.98,,high,low,8,namecheap,,,
 fe5f080e-b70e-4dd4-833a-e27de47f7dd3,addlepated.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
@@ -348,7 +348,7 @@ a47c35f7-44e2-4755-a779-dc60e054f571,diskdrive.melbourne,available,53.98,,high,l
 6d68f88a-6347-4f65-9759-42f329da8a8c,nature.melbourne,premium,58,58,medium,low,6,namesilo,,,08/09/2026 02:43
 60717167-3fc0-456a-a370-70eb6427fed8,skype.melbourne,available,53.98,,high,medium,5,namecheap,,,
 ad77923f-e39e-4a30-b40f-1546efbce1c5,lookto.melbourne,available,53.98,,high,low,7,namecheap,,,
-0af4ae93-cf17-413d-a75c-f41d58218aee,coloured.melbourne,available,53.98,,medium,low,8,namecheap,,,
+0af4ae93-cf17-413d-a75c-f41d58218aee,coloured.melbourne,available,44.98,53.98,medium,low,8,namecheap,,,22/09/2026 20:29
 90302d14-97dc-41f2-b8a2-154cfe5d1350,entranceexamination.melbourne,available,53.98,,medium,low,20,namecheap,,,
 41f83b5d-8701-4148-886e-b655e2b7a889,trip.melbourne,premium,58,58,medium,low,4,namesilo,,,08/09/2026 04:57
 ea7734e6-c8e1-47a6-a356-7a81bc3abe10,ranking.melbourne,available,53.98,,high,low,7,namecheap,,,
@@ -371,17 +371,17 @@ c023636b-fcff-47b9-a450-ec399bad00f3,pinch.melbourne,available,53.98,,high,low,5
 4dd32566-46d4-4534-94da-35e3700efd3c,blowout.melbourne,available,53.98,,high,low,7,namecheap,,,
 c8bd2be6-e4ba-4dca-bcd7-84a2a28db911,animals.melbourne,premium,452.19,,medium,low,7,name.com,,,
 d2013845-403a-44dd-afb7-ba49ac31d515,fiftynine.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
-ce7fca35-0127-45f3-a0bc-6cf1bbfb541d,best.melbourne,premium,2696.59,,high,medium,4,name.com,,,
+ce7fca35-0127-45f3-a0bc-6cf1bbfb541d,best.melbourne,premium,2772.97,2772.97,medium,low,4,namecheap,,,22/09/2026 19:49
 51b9fb65-7670-4605-9963-cb1a3e279644,inch.melbourne,available,53.98,,medium,low,4,namecheap,,,
 499c576b-4a38-43f2-8acb-9f3008c69bf1,luncheon.melbourne,available,53.98,,high,low,8,namecheap,,,
 59d763ce-3a41-446f-b35b-d0143818d983,spiderlike.melbourne,available,44.98,53.98,low,low,10,namecheap,,,06/08/2026 11:52
 8a4c31c8-3152-482c-a85e-c7a288890a65,closeoneeye.melbourne,available,53.98,,high,low,13,namecheap,,,
 70ba7c56-828e-41c0-9d34-cc398953a6c4,visiting.melbourne,premium,90.64,,medium,low,8,name.com,,,
-c8004768-1b25-430b-aaa5-0e8765308aaf,abdominal.melbourne,available,53.98,,high,low,9,namecheap,,,
+c8004768-1b25-430b-aaa5-0e8765308aaf,abdominal.melbourne,available,44.98,53.98,low,low,9,namecheap,,,21/09/2026 13:47
 273b8d8c-3486-44d6-97a1-2b9e122d11b0,anomalous.melbourne,available,44.98,53.98,low,low,9,namecheap,,,
 103de93e-62ab-4fa8-9c87-3f18860d4246,farmstand.melbourne,available,53.98,,high,low,10,namecheap,,,
 c2b71aea-db64-4b7c-a3df-a03514050dea,adorables.melbourne,available,53.98,,high,low,9,namecheap,,,
-55a83bc2-4e5f-4377-94d3-40b63c6a19ba,autonomous.melbourne,available,53.98,,high,medium,10,namecheap,,,
+55a83bc2-4e5f-4377-94d3-40b63c6a19ba,autonomous.melbourne,available,58,58,medium,low,10,namesilo,,,22/09/2026 14:12
 ef7ed375-265b-4e50-9f0f-e6776d029dc2,thelike.melbourne,available,53.98,,medium,low,8,namecheap,,,
 3bbe2bec-4dc3-4ad5-8163-ec1ffc5ffb22,lifeprotip.melbourne,available,53.98,,high,low,12,namecheap,,,
 71fa459e-3961-4df3-91f2-7b5752ee4763,rough.melbourne,available,44.98,53.98,low,low,5,namecheap,,,06/08/2026 09:39
@@ -407,10 +407,10 @@ f253e6d7-8fda-48a7-bad2-fe1e13bb3bb0,paperback.melbourne,available,53.98,,high,l
 c0534913-e19d-4be5-b4c4-624eafda0e49,affined.melbourne,available,44.98,53.98,low,low,7,namecheap,,,
 80667c41-e131-4a20-98e5-c20e43133fdf,doublecheck.melbourne,available,53.98,,high,low,12,namecheap,,,
 c0306f18-fb04-4d32-bc9f-426fd116cf8e,cathartic.melbourne,available,44.98,53.98,low,low,9,namecheap,,,05/08/2026 22:20
-715e28be-d8f8-4107-8d06-328a8af97987,auditory.melbourne,available,53.98,,high,low,8,namecheap,,,
-bca934bb-fe18-4ba0-b0f0-3ef3dc8671b7,fearless.melbourne,available,53.98,,high,low,8,namecheap,,,
+715e28be-d8f8-4107-8d06-328a8af97987,auditory.melbourne,available,58,58,medium,low,8,namesilo,,,22/09/2026 12:39
+bca934bb-fe18-4ba0-b0f0-3ef3dc8671b7,fearless.melbourne,available,58,58,medium,low,8,namesilo,,,22/09/2026 12:19
 19688166-5697-45d2-9464-11b82831ebac,todate.melbourne,available,53.98,,medium,low,7,namecheap,,,
-c91e8f66-f261-4053-bd7c-5145a4a1d266,nineteen.melbourne,available,53.98,,high,low,8,namecheap,,,
+c91e8f66-f261-4053-bd7c-5145a4a1d266,nineteen.melbourne,available,58,58,medium,low,8,namesilo,,,21/09/2026 12:05
 e66fe34d-bc29-4d8e-a029-68bb8772c137,negative.melbourne,available,53.98,,high,low,8,namecheap,,,
 855d30cb-b041-4f3a-968f-687822f792c8,joined.melbourne,available,53.98,,high,low,6,namecheap,,,
 b10e56ee-2094-4de0-b5b4-edbdb287d97b,talkof.melbourne,available,53.98,,low,low,7,namecheap,,,
@@ -427,8 +427,8 @@ dfbb6d10-d241-4418-b03e-49b1b13e07a0,themasses.melbourne,available,53.98,,low,lo
 62465a4b-fe55-456b-a7ac-2814911512bb,candidate.melbourne,available,53.98,,high,low,9,namecheap,,,
 3a9920d6-b217-4f00-a44c-fb5af9906446,youngboy.melbourne,available,53.98,,high,low,9,namecheap,,,
 eeb41922-b28e-454e-8238-66a3a60ff061,alien.melbourne,available,44.98,53.98,low,medium,5,namecheap,,,
-cc015e70-4f1e-4f03-96e4-58e494486aeb,virtuoso.melbourne,available,53.98,,high,low,8,namecheap,,,
-dab3079b-7c74-4ff4-a18c-59e381f8ea40,asthmatic.melbourne,available,53.98,,medium,low,9,namecheap,,,
+cc015e70-4f1e-4f03-96e4-58e494486aeb,virtuoso.melbourne,available,44.98,53.98,medium,low,8,namecheap,,,21/09/2026 17:38
+dab3079b-7c74-4ff4-a18c-59e381f8ea40,asthmatic.melbourne,available,58,58,low,low,9,namesilo,,,22/09/2026 10:23
 8fdad113-9504-41b8-8e25-58aa1ead3dcb,cricketscore.melbourne,available,53.98,,high,low,13,namecheap,,,
 828d14d2-09bd-4df3-a25c-87ae9c5e2f66,seeingthat.melbourne,available,53.98,,medium,low,11,namecheap,,,
 93ef9787-eab6-4e73-bb47-012a136587d5,anginose.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
@@ -451,17 +451,17 @@ f5109ab8-56fb-4aa6-bf17-578afa1b3809,sued.melbourne,available,53.98,,low,low,4,n
 71af2f0f-10f9-43e1-8713-689ce7912c21,hindend.melbourne,available,44.98,53.98,low,low,8,namecheap,,,09/08/2026 11:03
 f273f261-73d2-4b8b-a7e9-6bcced3338d2,asoneman.melbourne,available,53.98,,medium,low,10,namecheap,,,
 de4aaadc-4b05-446d-affb-d0e5d17288a9,accoutred.melbourne,available,44.98,53.98,low,low,9,namecheap,,,
-9a6b9eb7-441d-43d4-91c0-cdc4e032b30e,advancing.melbourne,available,53.98,,high,low,9,namecheap,,,
+9a6b9eb7-441d-43d4-91c0-cdc4e032b30e,advancing.melbourne,available,44.98,53.98,medium,low,9,namecheap,,,21/09/2026 20:51
 d8792810-c811-4144-8b6e-15e834e1cc75,fortune.melbourne,available,53.98,,high,low,7,namecheap,,,
 2d2553ce-af89-4399-835a-8d669b2aa022,election.melbourne,premium,90.75,,high,low,8,name.com,,,
 4538cf51-7dd2-4fd3-8fcb-bb740d076e3b,alto.melbourne,available,44.98,53.98,low,low,4,namecheap,,,
 8b5ea9e8-636a-49ba-ab0b-504099976677,spry.melbourne,available,44.98,53.98,medium,low,4,namecheap,,,
 d843e803-9d1a-414c-acdd-5b6b4b2100a6,witty.melbourne,available,53.98,,high,low,5,namecheap,,,
 0398d7d1-7cc8-41f8-856b-5c4e3c4dd6f5,tvset.melbourne,available,53.98,,high,low,6,namecheap,,,
-e9ff514e-0b5b-4851-9c31-2b6f04df67b8,balanced.melbourne,available,53.98,,high,low,8,namecheap,,,
+e9ff514e-0b5b-4851-9c31-2b6f04df67b8,balanced.melbourne,available,58,58,medium,low,8,namesilo,,,22/09/2026 16:28
 4ffdf7f9-6b36-46b3-82b2-db5aaf316fc2,unit.melbourne,available,44.98,53.98,medium,low,4,namecheap,,,08/09/2026 06:04
 06d3a4a1-a487-4569-9f98-fc6426f09d9d,justiceofthepeace.melbourne,available,53.98,,medium,low,20,namecheap,,,
-6e55136e-7e7b-4a67-bee6-9650fa7170f1,aboard.melbourne,available,53.98,,medium,low,6,namecheap,,,
+6e55136e-7e7b-4a67-bee6-9650fa7170f1,aboard.melbourne,available,53.98,,low,low,6,namecheap,,,
 7701dcb2-1d6c-4504-be28-89ff34bad342,artgallery.melbourne,premium,181.38,,high,low,11,name.com,,,
 91f158ec-472b-4edd-8c1e-5f9f8de899b1,flight.melbourne,premium,171.78,171.78,high,low,6,namecheap,,,
 6165999a-a495-4e54-95c7-308fc508c9f6,providence.melbourne,available,53.98,,high,low,10,namecheap,,,
@@ -487,7 +487,7 @@ d14105dc-328c-42f3-aa6a-d7e42a0fe057,boarded.melbourne,available,53.98,,medium,l
 3802b75c-776e-40b0-9dda-cf8aeb4f1c8d,laura.melbourne,premium,90.16,,high,low,5,name.com,,,
 76d3ed6b-eb5b-4c7a-a218-28a306ba3af9,arrayed.melbourne,available,44.98,53.98,low,low,7,namecheap,,,06/08/2026 21:37
 514fe5db-bcca-4aa6-9247-b89b49eef897,chemicalweapon.melbourne,available,53.98,,medium,low,15,namecheap,,,
-fd4c714c-8ac8-4499-9a3a-3b5e5e5e2bd0,brief.melbourne,available,53.98,,high,low,5,namecheap,,,
+fd4c714c-8ac8-4499-9a3a-3b5e5e5e2bd0,brief.melbourne,available,58,58,medium,low,5,namesilo,,,21/09/2026 13:42
 c51f8210-abc0-4344-b904-4bccb65eeeb7,superbly.melbourne,available,53.98,,medium,low,8,namecheap,,,
 afb48dbe-80b7-4cd5-b6c9-9da30d3727e1,dormant.melbourne,available,44.98,53.98,low,low,7,namecheap,,,
 96378582-3c10-46bc-bcc3-04c837772d7c,importance.melbourne,available,53.98,,high,low,10,namecheap,,,
@@ -496,7 +496,7 @@ d7151f5a-3ab0-46f2-84fc-baae32ac7b6c,shop.melbourne,available,,,high,medium,4,,,
 30a387f8-3862-4e8c-8a88-6eb8ea19e2d6,philly.melbourne,available,53.98,,high,low,6,namecheap,,,
 d6b1cace-c28a-4262-9166-629270faa6a8,aborticide.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
 8dc53f8b-03af-4058-b8d7-dea6fc05f077,match.melbourne,available,53.98,,high,medium,5,namecheap,,,
-9e1bc6d0-0b40-4a42-9763-a05fbf81cb9b,mix.melbourne,premium,84.99,84.99,medium,low,3,name.com,,,
+9e1bc6d0-0b40-4a42-9763-a05fbf81cb9b,mix.melbourne,available,58,58,low,low,3,namesilo,,,22/09/2026 03:09
 570332f4-136c-4a9c-bf81-66257f08be33,combative.melbourne,available,44.98,53.98,low,low,9,namecheap,,,
 2a482fba-4a04-4021-9312-2beccfe4bfb0,talkto.melbourne,available,53.98,,medium,low,7,namecheap,,,
 6735a366-8dad-45e0-b63d-b746f141540e,landscape.melbourne,premium,453.3,,high,low,9,name.com,,,
@@ -506,7 +506,7 @@ d5353222-1b4c-4f15-94e1-bf039bb924bb,cognisant.melbourne,available,44.98,53.98,l
 0b1a478b-e046-4ea6-9d65-9c51667bb8cf,givecredit.melbourne,available,53.98,,high,low,11,namecheap,,,
 ac68115b-de0c-4591-8d1d-4fe41821e628,pipe.melbourne,premium,179.99,,high,low,4,name.com,,,
 55d90461-878e-46f9-83af-5c2d86b85dc2,showaleg.melbourne,available,53.98,,low,low,10,namecheap,,,
-9c15ee69-2ee5-44cb-ae50-1ee8bbb99c53,business.melbourne,premium,9256.29,9256.29,medium,low,8,namecheap,,,20/09/2026 12:51
+9c15ee69-2ee5-44cb-ae50-1ee8bbb99c53,business.melbourne,available,58,58,medium,low,8,namesilo,,,23/09/2026 02:32
 f9202d7b-1a33-4c58-ad4b-2c6563cca9f5,injure.melbourne,available,53.98,,medium,low,6,namecheap,,,
 addbcc1a-3253-4a1f-a534-1b4ab6aec910,sympathy.melbourne,available,53.98,,high,low,8,namecheap,,,
 69ff4dad-a888-44e6-92ef-24b2f4aafdda,kick.melbourne,available,,,high,low,4,,,,
@@ -524,8 +524,8 @@ e475cde4-adba-4541-962b-453f695a1233,auditive.melbourne,available,44.98,53.98,lo
 d6e3fde7-62a0-4e31-9472-74f0642df661,crowded.melbourne,available,53.98,,medium,low,7,namecheap,,,
 24543cfd-63f8-4d94-bbd2-e240e2aa41e4,perch.melbourne,available,44.98,53.98,low,low,5,namecheap,,,
 ac494ee5-fc09-4244-8c68-7391bda29086,englishspeaking.melbourne,available,53.98,,medium,low,16,namecheap,,,
-e7a694d5-1f4e-4753-86c3-3fd0a861abbd,sapphire.melbourne,available,53.98,,high,medium,8,namecheap,,,
-cd01aa29-3f46-4c5d-be4a-7251f14f16a0,apt.melbourne,premium,179.65,,high,low,3,name.com,,,
+e7a694d5-1f4e-4753-86c3-3fd0a861abbd,sapphire.melbourne,available,58,58,medium,low,8,namesilo,,,22/09/2026 15:38
+cd01aa29-3f46-4c5d-be4a-7251f14f16a0,apt.melbourne,available,58,58,low,low,3,namesilo,,,22/09/2026 07:23
 466ce1e1-e1b6-4d9b-8a9e-de6b13e4d2ed,announce.melbourne,available,53.98,,high,low,8,namecheap,,,
 d80e88e8-afad-4dae-81a3-972136dbe16d,plantcommunity.melbourne,available,53.98,,high,low,15,namecheap,,,
 eb7a6406-c845-4a3a-8dee-d9dcc2571404,marco.melbourne,premium,90.69,,high,low,5,name.com,,,
@@ -543,7 +543,7 @@ e0f43084-1851-4b72-894a-c4a612608805,crap.melbourne,available,53.98,,medium,low,
 a4ddb4fa-dc5e-4db6-9d5c-b87ff6881312,ascendable.melbourne,available,44.98,53.98,low,low,10,namecheap,,,07/08/2026 00:35
 615a866b-bb97-4b2d-b971-09337e979387,sun.melbourne,premium,181.2,,high,medium,3,name.com,,,
 fbbd28a5-38d9-4bba-8fa3-8dfdb885d434,yoursever.melbourne,available,53.98,,low,low,10,namecheap,,,
-0ccd4e1b-c27e-404d-a3b8-ed4e11fb81a7,austrian.melbourne,available,53.98,,high,low,8,namecheap,,,
+0ccd4e1b-c27e-404d-a3b8-ed4e11fb81a7,austrian.melbourne,available,58,58,low,low,8,namesilo,,,22/09/2026 13:38
 02a81bf8-8ddf-4e67-be9f-e7602001e818,toddler.melbourne,available,53.98,,high,low,7,namecheap,,,
 31c9ab4a-eaef-4799-9c06-112cecfbb83a,saddle.melbourne,available,53.98,,high,low,6,namecheap,,,
 ec8e90fa-b7c1-4395-abeb-eb2bce7d0e3f,knowsomeone.melbourne,available,53.98,,medium,low,12,namecheap,,,
@@ -575,7 +575,7 @@ f5c369a4-37b3-46ce-bb9e-ba6bf8045922,buried.melbourne,available,53.98,,medium,lo
 609f0e34-52d4-45a5-aa0a-a848de366b77,affirm.melbourne,available,,,high,low,6,,,,
 f5a01976-7aa9-4fc6-bb62-9b894b4c25b8,pharmacist.melbourne,premium,900.25,,high,low,10,name.com,,,
 c0d01cdc-9b7d-4973-abbf-290e107fd606,bowlegged.melbourne,available,44.98,53.98,low,low,9,namecheap,,,08/08/2026 11:55
-86346be9-621a-4c0b-b8e3-cab2a0dce8f3,blue.melbourne,premium,449.12,,high,medium,4,name.com,,,
+86346be9-621a-4c0b-b8e3-cab2a0dce8f3,blue.melbourne,available,58,58,medium,low,4,namesilo,,,22/09/2026 07:49
 78f53a07-93ee-4476-b460-cde3fb63ff8a,porticoed.melbourne,available,44.98,53.98,low,low,9,namecheap,,,
 d08f87bf-112c-4449-ab6a-0aa30085eada,pointless.melbourne,available,53.98,,medium,low,9,namecheap,,,
 86dcc593-4a96-49c7-a593-c275f5322b12,north.melbourne,premium,2668.52,,high,low,5,name.com,,,
@@ -591,7 +591,7 @@ b929ed76-4ef4-47ae-b34b-1d6bcac88108,connect.melbourne,premium,58,58,medium,medi
 aa2aadf1-34be-434c-aed8-b046ed0a2a9c,library.melbourne,available,58,58,medium,low,7,namesilo,,,19/09/2026 14:39
 64dbee02-aefc-4d99-bdd7-aaef6856a82b,communist.melbourne,available,53.98,,high,low,9,namecheap,,,
 c8eb38b7-cf6d-42a3-82bb-02f45b4b03ad,bond.melbourne,available,53.98,,high,low,4,namecheap,,,
-73625e7e-35a8-47af-9fa1-4c401887545b,love.melbourne,premium,2696.59,,high,medium,4,name.com,,,
+73625e7e-35a8-47af-9fa1-4c401887545b,love.melbourne,premium,2772.97,2772.97,medium,low,4,namecheap,,,22/09/2026 19:29
 6945d967-caaf-4a8f-a755-3f7ec65b38e8,subjects.melbourne,available,53.98,,low,low,8,namecheap,,,
 fed0c833-c1d9-4855-b4fe-c2f18177cd90,implying.melbourne,available,53.98,,medium,low,8,namecheap,,,
 2521619d-f7cb-450c-a802-5d684382ae64,leaving.melbourne,available,53.98,,high,low,7,namecheap,,,
@@ -617,13 +617,13 @@ c986be78-ce2a-4d1b-9814-04ba8d7efeac,aversive.melbourne,available,44.98,53.98,lo
 f9a53e0e-5055-4603-bd00-c3fb32465848,familybusiness.melbourne,available,53.98,,high,low,15,namecheap,,,
 648d2de8-371b-4674-be89-4065c081cd88,flipthebird.melbourne,available,53.98,,medium,low,13,namecheap,,,
 181c0859-57a0-4fb1-877f-7c2643e828fa,djia.melbourne,available,53.98,,medium,low,4,namecheap,,,
-b37441e4-376e-47c2-88ee-10f68122fcb9,accurate.melbourne,available,53.98,,high,low,8,namecheap,,,
+b37441e4-376e-47c2-88ee-10f68122fcb9,accurate.melbourne,available,58,58,medium,low,8,namesilo,,,21/09/2026 15:59
 b0f704aa-35e5-471e-a1c5-0bc6eb67f21c,allovertheboard.melbourne,available,53.98,,medium,low,18,namecheap,,,
 532df5aa-551d-4563-a896-79d6921fe812,afterwards.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
 c31e6c3a-4dcb-4f97-8d39-2b8764c22e3d,mainman.melbourne,available,53.98,,high,low,8,namecheap,,,
 d946e2c7-e43b-4bc0-97ab-1b952e927489,colonelsanders.melbourne,available,53.98,,high,low,15,namecheap,,,
 ba98cf98-cf0d-4231-a25e-7e7c42aabecf,actinide.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
-a5ac333e-e577-4f7f-b942-33146f7a7adc,booted.melbourne,available,53.98,,medium,low,6,namecheap,,,
+a5ac333e-e577-4f7f-b942-33146f7a7adc,booted.melbourne,available,58,58,low,low,6,namesilo,,,22/09/2026 23:43
 56aff767-2fb8-46e9-9ee9-05e5f53bef09,lowpriced.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
 e30ebe31-4ae0-4ac0-aaec-c71789de17f5,autoecious.melbourne,available,44.98,53.98,low,low,10,namecheap,,,07/08/2026 19:51
 44193021-acfd-4edf-8d00-037f3fb8dc56,famous.melbourne,premium,179.09,,high,low,6,name.com,,,
@@ -636,7 +636,7 @@ c1c06dbd-5fb8-4f06-b4e8-58af0edbb2c3,bullet.melbourne,available,53.98,,high,low,
 230e8dc0-d6eb-4570-a86f-834ec0875f86,good.melbourne,available,58,58,medium,low,4,namesilo,,,19/09/2026 05:54
 a9d12d2c-829d-445d-92a8-8db6512730a1,majestic.melbourne,available,53.98,,high,low,8,namecheap,,,
 8e7bf650-4c95-42c8-a99f-72127b3201b7,autonomic.melbourne,available,44.98,53.98,low,low,9,namecheap,,,07/08/2026 20:52
-485ab895-51fa-4951-8455-9cd5b790a247,all.melbourne,premium,167.87,167.87,high,medium,3,name.com,,,
+485ab895-51fa-4951-8455-9cd5b790a247,all.melbourne,premium,185.58,185.58,medium,low,3,namecheap,,,22/09/2026 00:25
 b19feed6-cdf0-4af6-866a-3ce255503518,employee.melbourne,available,53.98,,high,low,8,namecheap,,,
 b8127852-8193-46cd-8959-f21b1ff890d2,amidship.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
 25bb14fe-70dc-49ac-9a8a-c256d06360ef,sailor.melbourne,available,53.98,,high,low,6,namecheap,,,
@@ -648,14 +648,14 @@ b3bf2208-9981-45ab-a513-629ed0bb2a2f,onmain.melbourne,available,53.98,,medium,lo
 f4472b99-19cc-41d3-bf44-a6b4d3edf10d,soandso.melbourne,available,53.98,,medium,low,9,namecheap,,,
 0f763641-cf2a-4716-b4fc-f0ec365f9c64,washington.melbourne,available,53.98,,high,low,10,namecheap,,,
 f1446d2d-992d-4a56-80f4-cc217ccdef87,holycrap.melbourne,available,53.98,,medium,low,9,namecheap,,,
-abed23e4-0913-4511-86dd-ba4a82c9ba3c,nonstop.melbourne,available,53.98,,high,low,7,namecheap,,,
+abed23e4-0913-4511-86dd-ba4a82c9ba3c,nonstop.melbourne,available,58,58,medium,low,7,namesilo,,,22/09/2026 08:07
 a7bd0521-c3d6-47bc-8bed-88f26cdb943c,circus.melbourne,premium,178.94,,high,low,6,name.com,,,
 3ef47d6d-da49-4598-be9c-fb4a95311051,encouraging.melbourne,available,53.98,,high,low,11,namecheap,,,
 2d3a6afe-b344-4044-bc7a-57669d5f712a,compute.melbourne,available,58,58,medium,low,7,namesilo,,,19/09/2026 14:03
 f9d6eb62-fe13-4d50-9ca1-5978ca5e8c63,crisp.melbourne,available,53.98,,medium,low,5,namecheap,,,
 cf7b9ff8-ff68-4645-9403-45b2b622db48,analyze.melbourne,available,53.98,,high,low,7,namecheap,,,
 9f7c1b19-3a6d-427c-a201-326aa1e5129d,aciduric.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
-b4c67116-2061-4c42-8a4b-8dd94750e835,adjustable.melbourne,available,53.98,,high,low,10,namecheap,,,
+b4c67116-2061-4c42-8a4b-8dd94750e835,adjustable.melbourne,available,44.98,53.98,medium,low,10,namecheap,,,21/09/2026 18:40
 3abb0ed1-d5e7-4b10-b528-112f331d9267,mushy.melbourne,available,44.98,53.98,low,low,5,namecheap,,,09/08/2026 00:58
 2cf581a8-3bd0-4ff1-92ce-76314c07dc66,aryan.melbourne,available,44.98,53.98,medium,high,5,namecheap,,,07/08/2026 00:01
 299786c7-0a7e-4f2d-ba26-201947f06b84,evaporate.melbourne,available,53.98,,medium,low,9,namecheap,,,
@@ -675,7 +675,7 @@ e83fb899-c516-4a98-ac5b-56fc4ac4ff0e,cornered.melbourne,available,44.98,53.98,lo
 876df648-0577-4e5e-a40c-dc974dc14a19,toy.melbourne,premium,90.27,,high,low,3,name.com,,,
 b656bdff-d111-49da-b097-fb4354695f01,deserted.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
 9851a082-0bdd-41cb-a6c3-766f3377bcbb,annotated.melbourne,available,53.98,,medium,low,9,namecheap,,,
-ed6c25a1-f0f8-466b-ac6d-60f9dc34bd6f,nail.melbourne,available,53.98,,medium,low,4,namecheap,,,
+ed6c25a1-f0f8-466b-ac6d-60f9dc34bd6f,nail.melbourne,available,58,58,low,low,4,namesilo,,,21/09/2026 16:04
 707763b9-6380-4999-9d6a-8a04dbafdaa8,towheaded.melbourne,available,44.98,53.98,low,low,9,namecheap,,,07/08/2026 01:49
 f070129a-6d85-41a4-9062-a0c7db5fbb51,chorus.melbourne,available,53.98,,high,low,6,namecheap,,,
 9206ee3b-2c5b-4335-8a1e-2d5d116fca5e,whitepepper.melbourne,available,53.98,,low,low,12,namecheap,,,
@@ -699,7 +699,7 @@ ea97e48e-9b4b-4913-9a40-20bc59053144,thanksfornothing.melbourne,available,53.98,
 0fef356f-e34e-41fb-adc3-4fd76580a7a7,educated.melbourne,available,53.98,,medium,low,8,namecheap,,,
 fe1ba312-ddaa-43b2-a2e0-04a0d418cbc4,shape.melbourne,available,53.98,,high,low,5,namecheap,,,
 f8956fb6-4f61-40b2-8614-e6cd11242595,grip.melbourne,available,53.98,,high,low,4,namecheap,,,
-cf066c93-1f5b-49fc-b540-66c7c9fc497a,accustomed.melbourne,available,53.98,,high,low,10,namecheap,,,
+cf066c93-1f5b-49fc-b540-66c7c9fc497a,accustomed.melbourne,available,58,58,medium,low,10,namesilo,,,21/09/2026 16:02
 e7b2ee19-ba0a-4d4b-82f0-c0d9cafac369,financial.melbourne,available,44.98,53.98,low,low,9,namecheap,,,19/09/2026 09:32
 4ac72850-4fc2-437c-b284-8c22e6502b61,howdoyedo.melbourne,available,53.98,,medium,low,12,namecheap,,,
 0b9e5024-b08c-43dc-b0d7-c14b96f77b09,liveblog.melbourne,available,53.98,,high,low,9,namecheap,,,
@@ -715,7 +715,7 @@ c9e2e708-485d-4937-ac24-5a7da1db99e8,recipient.melbourne,available,53.98,,high,l
 6bcd48d4-6673-44de-a3ae-4a414c9a3e79,aquaphobic.melbourne,available,44.98,53.98,low,low,10,namecheap,,,06/08/2026 10:40
 c8ad1ed3-07db-4646-a55c-81fcbcdc51fd,abkhaz.melbourne,available,44.98,53.98,low,low,6,namecheap,,,
 7048f832-ce39-4c65-b8ad-f557460fa93f,lorditover.melbourne,available,53.98,,medium,low,12,namecheap,,,
-7bfa0f1d-b7de-47c4-9410-df48ff63dcac,important.melbourne,available,53.98,,high,low,9,namecheap,,,
+7bfa0f1d-b7de-47c4-9410-df48ff63dcac,important.melbourne,available,44.98,53.98,medium,low,9,namecheap,,,22/09/2026 13:54
 b1ca99d7-1a8d-4f0f-af02-0b195c339aec,clitlicker.melbourne,available,53.98,,medium,low,10,namecheap,,,
 961a017f-dfd5-47e2-9d0f-fb8405371ea2,generaldisease.melbourne,available,53.98,,medium,low,15,namecheap,,,
 a1aaeafa-884e-4629-8a7a-32895887195e,businesslunch.melbourne,available,53.98,,high,low,14,namecheap,,,
@@ -737,13 +737,13 @@ aea84e44-ee7f-409d-ab8b-053715826588,neck.melbourne,available,53.98,,high,low,4,
 2a46dde3-1715-4631-9211-be4ea6eab62c,recent.melbourne,available,53.98,,high,low,6,namecheap,,,
 673a4d76-6898-4356-866b-18563d67addb,uptonow.melbourne,available,44.98,53.98,low,low,9,namecheap,,,13/09/2026 21:45
 460ad097-1885-4ff4-b4ce-cbb1ed77fd66,travel.melbourne,available,,,high,low,6,,,,
-12341024-0404-4871-9741-210d7ed7e115,gas.melbourne,premium,85.89,85.89,high,low,3,namecheap,,,
+12341024-0404-4871-9741-210d7ed7e115,gas.melbourne,available,58,58,low,low,3,namesilo,,,23/09/2026 01:57
 e972bfbd-e5dc-490a-a4cf-9128883c2be2,beg.melbourne,premium,181.28,,medium,low,3,name.com,,,
 588317f5-7453-480a-b19e-1ad0bfbccedd,documentation.melbourne,available,53.98,,medium,low,13,namecheap,,,
 5e8bdc79-99b5-4bda-95f7-9901237edc68,flyspeck.melbourne,available,44.98,53.98,low,low,8,namecheap,,,08/08/2026 14:29
 b8002bf0-80af-47e7-a3f5-f712603b38c3,manyatime.melbourne,available,53.98,,medium,low,11,namecheap,,,
 3e9a4196-8fed-4200-abc6-a29a29761315,bflat.melbourne,available,53.98,,medium,low,6,namecheap,,,
-11e8e7bf-5725-433c-8f46-be8600ff3324,stamp.melbourne,premium,449.05,,medium,low,5,name.com,,,
+11e8e7bf-5725-433c-8f46-be8600ff3324,stamp.melbourne,premium,462.16,462.16,low,low,5,namecheap,,,23/09/2026 01:04
 398895fd-39a0-477f-a08e-374e272630ea,mania.melbourne,available,53.98,,medium,low,5,namecheap,,,
 ec9644d2-fcf1-4b18-9c39-b89dc7e92af1,americanenglish.melbourne,available,53.98,,high,low,16,namecheap,,,
 26303b4e-3305-4b00-be9b-ac938a9c3a17,starting.melbourne,available,53.98,,medium,low,8,namecheap,,,
@@ -752,7 +752,7 @@ a64a7ec7-ff9c-4a52-b6ad-a9c881737fdb,sacked.melbourne,available,53.98,,medium,lo
 39383d78-c27f-4acc-bef4-b2cd59692c13,lp.melbourne,available,,,medium,low,3,,,,
 97539d0f-70c2-4d14-acef-706e6faca566,depend.melbourne,premium,90.65,,high,low,6,name.com,,,
 d2281d28-6c51-4e01-b377-4b3b29be016f,assessable.melbourne,available,44.98,53.98,low,low,10,namecheap,,,07/08/2026 06:04
-a7716915-e0d9-403d-8292-e36e8a09a5a3,enticing.melbourne,available,53.98,,high,low,8,namecheap,,,
+a7716915-e0d9-403d-8292-e36e8a09a5a3,enticing.melbourne,available,58,58,medium,low,8,namesilo,,,22/09/2026 01:41
 5297ab4e-a206-4db8-846d-126fa49879dc,eightytwo.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
 7dffef5d-89d7-432c-aae4-c3200747025f,makepeace.melbourne,available,53.98,,high,low,10,namecheap,,,
 fe31e261-f5d3-4814-8cf7-b4ac3bed61cc,vantagepoint.melbourne,available,53.98,,high,low,13,namecheap,,,
@@ -777,9 +777,9 @@ c2868dc5-ffd4-424b-b7ba-aad4918548de,northkorea.melbourne,available,53.98,,low,l
 7118f9cc-297e-4635-a5c5-06efca2556d6,familyrestaurant.melbourne,available,53.98,,high,low,17,namecheap,,,
 ca7210dd-4964-48a8-b0e8-71f9afae7029,letters.melbourne,available,53.98,,high,low,7,namecheap,,,
 a5246519-9fbe-4375-825c-fdc8effbfc02,glitter.melbourne,available,53.98,,high,low,7,namecheap,,,
-68ae6fa8-f7b4-45c2-9c66-535dbc8edf1d,blocked.melbourne,available,53.98,,medium,low,7,namecheap,,,
+68ae6fa8-f7b4-45c2-9c66-535dbc8edf1d,blocked.melbourne,available,58,58,low,low,7,namesilo,,,22/09/2026 22:08
 57176326-c3c3-4b20-8654-aa28e9307a8a,anoestrous.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
-bf174d4e-9843-44e1-8ec0-e0ad8caf80a6,three.melbourne,premium,8387.25,8387.25,high,low,5,name.com,,,
+bf174d4e-9843-44e1-8ec0-e0ad8caf80a6,three.melbourne,available,58,58,medium,low,5,namesilo,,,21/09/2026 13:02
 89014a62-b01c-4417-a6d2-7ccb583d15a6,track.melbourne,available,53.98,,high,medium,5,namecheap,,,
 d83998dd-ec37-4a80-956a-222576565ee0,talk.melbourne,premium,907.24,,high,low,4,name.com,,,
 951286a3-4ada-43c3-aaf4-7c92b7f7423a,gorgeous.melbourne,available,53.98,,high,low,8,namecheap,,,
@@ -812,10 +812,10 @@ bc4cb2e4-97a0-4f04-bde0-4c7a92a22519,minimum.melbourne,available,53.98,,high,low
 83de792b-f515-4b49-a700-5a4ab790d17d,demonstration.melbourne,available,53.98,,high,low,13,namecheap,,,
 7481c424-190d-4af6-b0cf-2bcbd09f3226,swim.melbourne,premium,449.74,,high,low,4,name.com,,,
 582c8d16-f7f6-473c-8894-e86a68e221e9,nightmare.melbourne,available,53.98,,high,low,9,namecheap,,,
-c85bbc87-5df4-47b7-9060-263249eca48e,help.melbourne,premium,898.3,,medium,medium,4,name.com,,,
+c85bbc87-5df4-47b7-9060-263249eca48e,help.melbourne,available,58,58,low,low,4,namesilo,,,22/09/2026 10:03
 32ca81d9-3691-4998-88f6-582b72495234,easter.melbourne,premium,84.99,84.99,high,low,6,name.com,,,
 114d6d4d-d573-420c-8e92-065e327e37bf,ellen.melbourne,premium,90.22,,high,low,5,name.com,,,
-f1ea9d76-def2-4cbf-8e21-37241ebb6f7b,whizz.melbourne,available,53.98,,high,low,5,namecheap,,,
+f1ea9d76-def2-4cbf-8e21-37241ebb6f7b,whizz.melbourne,available,44.98,53.98,medium,low,5,namecheap,,,21/09/2026 18:06
 2d5ee6ef-19c1-406d-b0bf-d8f6821de602,autolytic.melbourne,available,44.98,53.98,low,low,9,namecheap,,,07/08/2026 20:42
 182ced65-47d8-4190-8897-511d5f6ff659,tothepowerof.melbourne,available,53.98,,medium,low,15,namecheap,,,
 4dbd8f09-e12c-4a60-858e-42e606d539e2,mild.melbourne,available,53.98,,high,low,4,namecheap,,,
@@ -833,8 +833,8 @@ fddf9f97-0b9c-4032-a688-58ba29df8098,fla.melbourne,premium,90.22,,medium,low,3,n
 c9d0f11a-7e51-415f-9afd-c24c03552868,disneyland.melbourne,available,53.98,,high,low,10,namecheap,,,
 91f401fb-5d13-4750-9297-e6a2785e1a5a,system.melbourne,available,58,58,medium,low,6,namesilo,,,19/09/2026 08:26
 fd58a9d1-d95a-4179-becc-19c88a678f74,professor.melbourne,premium,180.6,,high,low,9,name.com,,,
-f4a37885-b3a4-4a98-a733-2467556dbf15,big.melbourne,premium,168,168,high,medium,3,name.com,,,
-b6f056ac-248f-4544-8ffe-8daca0f886d8,addictive.melbourne,available,53.98,,high,low,9,namecheap,,,
+f4a37885-b3a4-4a98-a733-2467556dbf15,big.melbourne,premium,185.58,185.58,medium,low,3,namecheap,,,21/09/2026 20:03
+b6f056ac-248f-4544-8ffe-8daca0f886d8,addictive.melbourne,available,58,58,medium,low,9,namesilo,,,21/09/2026 17:08
 667ac6cc-6d36-432d-9385-0929550bea8e,altered.melbourne,available,44.98,53.98,low,low,7,namecheap,,,
 c1e25623-3640-4247-ae0e-730f8c7c83b8,wonderfully.melbourne,available,53.98,,medium,low,11,namecheap,,,
 4b900c69-89fa-4527-a908-0d7dce3f9208,acaudate.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
@@ -849,17 +849,17 @@ dcf813d7-8923-433b-93a9-2659727a44ce,alkaloidal.melbourne,available,44.98,53.98,
 c3e46c69-642a-42bc-a887-96ca3d62752c,concentrated.melbourne,available,53.98,,medium,low,12,namecheap,,,
 e2bc8b5d-f02d-48e5-be82-f8e93f7d07cf,sloping.melbourne,available,44.98,53.98,low,low,7,namecheap,,,08/09/2026 05:27
 e93aae14-1a37-4c13-8d31-25392432d6fd,thus.melbourne,available,53.98,,high,low,4,namecheap,,,
-6fc83b6f-9ec0-442e-aea4-6f38e11b527a,hopeful.melbourne,available,53.98,,high,low,7,namecheap,,,
+6fc83b6f-9ec0-442e-aea4-6f38e11b527a,hopeful.melbourne,available,44.98,53.98,low,low,7,namecheap,,,22/09/2026 09:48
 39451fad-ad3e-4718-9e0a-2cdad151b895,lay.melbourne,premium,89.54,,medium,low,3,name.com,,,
 e3b2cfdb-e8cb-4f76-9bd5-10b2e25e1727,complaint.melbourne,available,53.98,,medium,low,9,namecheap,,,
 5fa78e57-97af-4bcd-a89e-bea298017c64,coruscant.melbourne,available,44.98,53.98,low,low,9,namecheap,,,
-af259e69-0695-4290-aaa1-d86f1618ae06,fond.melbourne,available,53.98,,high,low,4,namecheap,,,
+af259e69-0695-4290-aaa1-d86f1618ae06,fond.melbourne,available,58,58,medium,low,4,namesilo,,,21/09/2026 21:45
 1bcc3d1d-d871-4814-bed6-4e2a608cde8c,apodeictic.melbourne,available,44.98,53.98,low,low,10,namecheap,,,06/08/2026 01:36
 fe4ef0d5-a58c-471f-9a3d-3685f523e68e,vinegary.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
 6876d4ee-7002-4b40-a614-960a09109959,awe.melbourne,premium,179.77,,high,low,3,name.com,,,
 d089c614-79a0-4030-8f17-94694aa1bf46,tons.melbourne,available,53.98,,high,low,4,namecheap,,,
 a17f3c2c-6664-46a0-abcd-424a737e9eee,nerd.melbourne,available,53.98,,high,medium,4,namecheap,,,
-a0d490bd-6643-4ad3-a091-4b2c072341fa,aujus.melbourne,available,53.98,,medium,low,6,namecheap,,,
+a0d490bd-6643-4ad3-a091-4b2c072341fa,aujus.melbourne,available,58,58,low,low,6,namesilo,,,22/09/2026 11:49
 2d9c09ca-3528-409a-b088-4334ec29ebfa,condone.melbourne,available,53.98,,high,low,7,namecheap,,,
 7cdc2ba0-55ed-4082-bab2-424b50b73c4f,havelittletimefor.melbourne,available,53.98,,medium,low,20,namecheap,,,
 c6a8bec4-18d0-4ee0-9242-fe5d30d68090,unusual.melbourne,available,53.98,,high,low,7,namecheap,,,
@@ -869,11 +869,11 @@ e604c492-87eb-4364-990a-de8e91b8b5cf,beborn.melbourne,available,53.98,,medium,lo
 3dd190b3-5a25-4c33-b086-2a3d625d920c,islands.melbourne,available,53.98,,high,low,7,namecheap,,,
 e8f6cee4-3f5a-4877-a2c2-c27690d9cb57,getrightwith.melbourne,available,53.98,,medium,low,14,namecheap,,,
 9bc003c1-3070-41ee-88a1-37432e985d79,removal.melbourne,premium,452.25,,medium,low,7,name.com,,,
-71d56cb2-1604-4073-87a4-973af22ad5ae,engrossed.melbourne,available,53.98,,high,low,9,namecheap,,,
+71d56cb2-1604-4073-87a4-973af22ad5ae,engrossed.melbourne,available,58,58,medium,low,9,namesilo,,,21/09/2026 15:00
 40437524-0984-4390-895b-d00c253c473b,antiracist.melbourne,available,53.98,,high,low,11,namecheap,,,
-57795b56-4086-43f7-9c9d-2694fed590ff,later.melbourne,available,53.98,,high,low,5,namecheap,,,
+57795b56-4086-43f7-9c9d-2694fed590ff,later.melbourne,available,44.98,53.98,medium,low,5,namecheap,,,21/09/2026 22:11
 116942b2-1eb9-4b00-a9cd-cd05ebce374b,albinotic.melbourne,available,44.98,53.98,low,low,9,namecheap,,,
-d4d65311-da04-4f7a-8565-aca863b70dc6,cyan.melbourne,available,53.98,,high,low,4,namecheap,,,
+d4d65311-da04-4f7a-8565-aca863b70dc6,cyan.melbourne,available,58,58,medium,low,4,namesilo,,,22/09/2026 22:59
 64716a88-b224-480c-a77c-5eb75bac390e,climate.melbourne,premium,89.6,,high,low,7,name.com,,,
 48965409-bb93-42d4-8c2f-d1bda11d3f7a,identify.melbourne,available,53.98,,high,low,8,namecheap,,,
 cb749996-182d-4294-aa29-2c2c5749a989,standfor.melbourne,available,53.98,,medium,low,9,namecheap,,,
@@ -881,7 +881,7 @@ ff2f6325-308b-48d6-a2aa-e11e5062af65,agrarian.melbourne,available,44.98,53.98,lo
 a392e3de-8547-4cf8-8cc7-09e4345b5964,sushi.melbourne,available,53.98,,high,low,5,namecheap,,,
 83af01c1-09bf-480b-8649-46c6b17f1852,bayesian.melbourne,available,44.98,53.98,low,low,8,namecheap,,,09/08/2026 03:13
 6ab82e57-a280-4109-812b-13863978c7eb,detected.melbourne,available,53.98,,medium,low,8,namecheap,,,
-bfaab042-caa6-401c-a10e-db4a3216312b,blurry.melbourne,available,53.98,,medium,low,6,namecheap,,,
+bfaab042-caa6-401c-a10e-db4a3216312b,blurry.melbourne,available,58,58,low,low,6,namesilo,,,22/09/2026 23:23
 677b756f-d498-449a-a6b9-5a8d07f442b9,barefaced.melbourne,available,44.98,53.98,low,low,9,namecheap,,,08/08/2026 09:20
 8c107182-2878-414f-8b39-3ec70002ee1a,astral.melbourne,available,44.98,53.98,medium,low,6,namecheap,,,07/08/2026 09:57
 bbabe5ef-ad15-4b6a-a000-985ffb1c9567,outing.melbourne,available,53.98,,high,low,6,namecheap,,,
@@ -893,7 +893,7 @@ dd940582-6b4f-4a87-9864-6044c8f5eeb5,beaded.melbourne,available,44.98,53.98,low,
 e3878902-29e9-4cd3-82b6-91ca8200927f,branch.melbourne,available,53.98,,medium,low,6,namecheap,,,
 1e447f05-b565-4a78-b5e2-94d624c50ddb,fifteenth.melbourne,available,44.98,53.98,low,low,9,namecheap,,,
 009ebfa8-de6c-42e5-8516-c07776a4f1fa,ann.melbourne,premium,181.3,,high,low,3,name.com,,,
-89ffd97e-92df-421c-85b1-6f5c898e27a3,brag.melbourne,available,53.98,,high,low,4,namecheap,,,
+89ffd97e-92df-421c-85b1-6f5c898e27a3,brag.melbourne,available,44.98,53.98,medium,low,4,namecheap,,,23/09/2026 00:49
 7274a743-3b43-41af-aa63-5bd13e0785c1,toorder.melbourne,available,53.98,,medium,low,8,namecheap,,,
 825c4b4d-b01d-4aac-9416-4d5c5a32d84a,algid.melbourne,available,44.98,53.98,low,low,5,namecheap,,,
 09df6e10-44d7-4f0d-994e-66e0eefc73ff,vanquish.melbourne,available,44.98,53.98,low,low,8,namecheap,,,09/08/2026 05:32
@@ -901,12 +901,12 @@ e3878902-29e9-4cd3-82b6-91ca8200927f,branch.melbourne,available,53.98,,medium,lo
 da7ce7f3-6549-4609-a355-63a97747d26d,tasking.melbourne,available,53.98,,medium,low,7,namecheap,,,
 a4bd7e06-3e7e-4cbd-afc4-cf718ed869d6,comeinto.melbourne,available,53.98,,high,low,9,namecheap,,,
 fb50f825-ea19-45ff-99e2-829fe2e7c19e,rgb.melbourne,available,53.98,,medium,low,3,namecheap,,,
-fffa54fe-bf8b-4cb1-a7a1-e1d66e5036fa,awaken.melbourne,available,53.98,,high,low,6,namecheap,,,
+fffa54fe-bf8b-4cb1-a7a1-e1d66e5036fa,awaken.melbourne,available,58,58,medium,low,6,namesilo,,,22/09/2026 14:40
 f5d67b41-c48b-4bcc-9437-08ab63c00f92,hourly.melbourne,available,53.98,,high,low,6,namecheap,,,
 ac6112a8-cc29-42e9-bcc6-87d3959f0c15,sworn.melbourne,available,53.98,,high,low,5,namecheap,,,
 674e6a2c-298f-4789-86e9-73578fbf2c0b,ariose.melbourne,available,44.98,53.98,low,low,6,namecheap,,,06/08/2026 19:19
 b79bde13-2e5b-4e0e-a738-960562645f82,boxing.melbourne,premium,448.28,,high,low,6,name.com,,,
-41e83d06-235b-4e52-b5fc-74f047cdd671,breezy.melbourne,available,53.98,,high,low,6,namecheap,,,
+41e83d06-235b-4e52-b5fc-74f047cdd671,breezy.melbourne,available,58,58,medium,low,6,namesilo,,,22/09/2026 22:40
 c58eb752-4288-4e26-b573-c060b80e3610,howto.melbourne,available,53.98,,high,low,6,namecheap,,,
 b06df039-4394-48e4-8ac2-5f34bba6ea81,fear.melbourne,available,53.98,,medium,low,4,namecheap,,,
 e1f6a0ef-08e0-42d9-a9f7-401dcd440533,photo.melbourne,premium,90.19,,high,medium,5,name.com,,,
@@ -914,21 +914,21 @@ e1f6a0ef-08e0-42d9-a9f7-401dcd440533,photo.melbourne,premium,90.19,,high,medium,
 06d0209c-c317-4e7d-94da-5c9d76ba8d33,loosely.melbourne,available,53.98,,medium,low,7,namecheap,,,
 4114ad58-a1c1-430f-9d0f-d7495c212f3d,envious.melbourne,available,53.98,,medium,low,7,namecheap,,,
 466f916a-9436-48a2-8dd6-b4862ce7c36d,appreciate.melbourne,available,53.98,,high,low,10,namecheap,,,
-e0cf001c-66b6-426c-80b3-8df07b1b9325,quick.melbourne,premium,419.69,419.69,high,medium,5,name.com,,,
+e0cf001c-66b6-426c-80b3-8df07b1b9325,quick.melbourne,available,58,58,low,low,5,namesilo,,,21/09/2026 23:09
 98b3df90-3dc0-4069-a0f5-07130c49ebb6,deliver.melbourne,premium,179.15,,high,low,7,name.com,,,
 a8437968-ec93-4982-ae5d-38b1f2106f97,acquired.melbourne,available,44.98,53.98,low,low,8,namecheap,,,
-c7cadd95-4a70-456e-8428-13c66f1dac50,stellar.melbourne,available,53.98,,high,medium,7,namecheap,,,
+c7cadd95-4a70-456e-8428-13c66f1dac50,stellar.melbourne,available,58,58,medium,low,7,namesilo,,,22/09/2026 10:32
 c1a4fb9d-9e53-4434-b959-a59f2da6ec14,funfair.melbourne,available,53.98,,high,low,7,namecheap,,,
-9c0cbc03-25d1-49aa-bc96-6cf1c30ee153,whiz.melbourne,available,53.98,,high,low,4,namecheap,,,
+9c0cbc03-25d1-49aa-bc96-6cf1c30ee153,whiz.melbourne,available,44.98,53.98,medium,low,4,namecheap,,,21/09/2026 18:01
 0b94d54f-b1c7-4d50-a5d6-ac9987ef13a4,destiny.melbourne,premium,89.48,,medium,low,7,name.com,,,
-cd09f009-3a32-423f-9947-9167a7e7d1e0,proclaimed.melbourne,available,53.98,,medium,low,10,namecheap,,,
+cd09f009-3a32-423f-9947-9167a7e7d1e0,proclaimed.melbourne,available,58,58,low,low,10,namesilo,,,22/09/2026 05:13
 05e53697-4da1-415b-8335-a3407a5958ea,lxxv.melbourne,available,44.98,53.98,low,low,4,namecheap,,,
 c802df6b-301f-4c6c-9d3b-c0f9df1bc39f,toothcare.melbourne,available,53.98,,low,low,9,namecheap,,,
 c0745852-0df6-427f-9c14-1f4267eb9119,putoff.melbourne,available,53.98,,medium,low,7,namecheap,,,
 0a3cf053-8a2a-422b-9784-1f74043494be,inthewakeof.melbourne,available,53.98,,medium,low,14,namecheap,,,
-1960647b-5614-452a-9cf2-7c4f3b1551e8,simple.melbourne,available,44.98,53.98,medium,low,6,namecheap,,,19/09/2026 05:32
+1960647b-5614-452a-9cf2-7c4f3b1551e8,simple.melbourne,available,58,58,medium,low,6,namesilo,,,23/09/2026 05:02
 0d30a7be-bb9e-4b02-9d8d-3c8b601c1150,fiftyfifty.melbourne,available,53.98,,high,low,11,namecheap,,,
-4177b9db-99f1-4d15-bcc5-5cbd54c03191,acidreflux.melbourne,available,53.98,,medium,low,11,namecheap,,,
+4177b9db-99f1-4d15-bcc5-5cbd54c03191,acidreflux.melbourne,available,53.98,,low,low,11,namecheap,,,
 d2c6eb16-c712-4f84-9f6b-521bd181f1da,bloodtyping.melbourne,available,53.98,,high,low,12,namecheap,,,
 d1b7a259-2f56-4be7-ba18-9fa05ee69c20,giveway.melbourne,available,53.98,,medium,low,8,namecheap,,,
 5f32ec48-eb17-44d0-aae9-529316a849b3,competent.melbourne,available,53.98,,high,low,9,namecheap,,,
@@ -936,13 +936,13 @@ c34932bd-44e9-4ab7-8aa0-40088f5a900b,shy.melbourne,premium,90,,medium,low,3,name
 051f72aa-bcc8-479e-a54e-6d0219b5383f,justintime.melbourne,available,53.98,,medium,low,12,namecheap,,,
 9c4f6d61-c26a-49e3-ac0b-bdece0c0b92c,assonant.melbourne,available,44.98,53.98,low,low,8,namecheap,,,07/08/2026 07:20
 b2887f80-678d-4911-88d2-62c8f58a70a6,nassau.melbourne,available,53.98,,high,low,6,namecheap,,,
-e2a4423b-f7e7-4e61-aa6b-e28979a437ba,agnostic.melbourne,available,53.98,,high,low,8,namecheap,,,
+e2a4423b-f7e7-4e61-aa6b-e28979a437ba,agnostic.melbourne,available,58,58,medium,low,8,namesilo,,,21/09/2026 23:11
 d86f5588-5868-447d-a39f-20453c398666,consult.melbourne,available,53.98,,high,low,7,namecheap,,,
 389b87fe-1319-4429-b2fd-33897e3634b9,non.melbourne,premium,90.04,,high,low,3,name.com,,,
 e40ee788-48fa-450c-8412-213b4e37d305,hurry.melbourne,available,53.98,,high,low,5,namecheap,,,
 d4d598df-ad06-4fd3-8875-e53d66fd59b8,quickwitted.melbourne,available,53.98,,medium,low,12,namecheap,,,
 4dcbf081-9143-4c19-ad53-b30eeb95448c,auricular.melbourne,available,44.98,53.98,low,low,9,namecheap,,,07/08/2026 17:46
-16dd9aec-abde-49b5-a334-92ef1a8e563e,thou.melbourne,available,53.98,,medium,low,4,namecheap,,,
+16dd9aec-abde-49b5-a334-92ef1a8e563e,thou.melbourne,available,58,58,low,low,4,namesilo,,,21/09/2026 11:11
 0e681b88-9fe4-43b1-bc91-86473a230e70,per.melbourne,premium,90.65,,high,low,3,name.com,,,
 d13bde84-2c78-4c6a-94db-3bb1764ae4d8,item.melbourne,available,53.98,,high,low,4,namecheap,,,
 7a504884-ba22-425e-bb6b-cdb9d5444ae3,californian.melbourne,available,53.98,,high,low,11,namecheap,,,
@@ -976,13 +976,13 @@ f6738636-ae91-495c-9ad4-ac62c7bde0ab,sunbeam.melbourne,available,53.98,,high,low
 3fd9431e-a7b9-41b5-983b-1c9df3951f04,plate.melbourne,available,53.98,,medium,low,5,namecheap,,,
 225dc9ec-6f57-4d9a-be2f-48cef7c178bd,condom.melbourne,premium,89.69,,high,low,6,name.com,,,
 9399160f-f3d4-400a-9eca-449a2930db63,montreal.melbourne,available,53.98,,medium,low,8,namecheap,,,
-f051f1cf-2071-44b3-839a-5e5a9e1f99ba,able.melbourne,available,53.98,,high,low,4,namecheap,,,
+f051f1cf-2071-44b3-839a-5e5a9e1f99ba,able.melbourne,available,44.98,53.98,medium,low,4,namecheap,,,21/09/2026 13:57
 4e236b7e-cf4f-45aa-bc10-16a7bfa8abde,bush.melbourne,available,53.98,,medium,low,4,namecheap,,,
 61c5c55d-33b4-417d-8b10-93fc6420cdde,amygdaline.melbourne,available,44.98,53.98,low,low,10,namecheap,,,
 3571e0ef-387c-40a4-9554-b0819c43d650,kingdom.melbourne,available,53.98,,high,low,7,namecheap,,,
 aba6c833-77bb-410e-bb80-490c3c2f3b2c,grouchy.melbourne,available,44.98,53.98,low,low,7,namecheap,,,08/08/2026 07:52
 3e8753c2-13c6-4ad7-80cb-02054ffd2683,alaska.melbourne,available,53.98,,high,low,6,namecheap,,,
-304a72af-126c-4acc-b3b3-ea5a38afc1fe,late.melbourne,available,53.98,,high,low,4,namecheap,,,
+304a72af-126c-4acc-b3b3-ea5a38afc1fe,late.melbourne,available,44.98,53.98,medium,low,4,namecheap,,,22/09/2026 19:16
 7716e007-7177-44df-87e2-d394a1fa3283,bald.melbourne,available,44.98,53.98,low,low,4,namecheap,,,08/08/2026 09:16
 561733fa-df2f-4ba1-b33b-c562009d8ef0,inbrief.melbourne,available,53.98,,medium,low,8,namecheap,,,
 e08597a4-0e22-40e2-b509-210b2f93b1d7,suv.melbourne,premium,452.4,,high,low,3,name.com,,,
@@ -998,4 +998,4 @@ e082222f-55e1-45a1-8ea1-46c2eded785e,sweat.melbourne,available,53.98,,medium,low
 d9ec8d30-b8ca-4a8e-b2da-ac68bf6a6611,arsenious.melbourne,available,44.98,53.98,low,low,9,namecheap,,,06/08/2026 22:24
 512198e0-949d-4daa-82f5-4c6ef8f03ef2,script.melbourne,available,44.98,53.98,medium,low,6,namecheap,,,08/09/2026 13:57
 67abae2d-8576-45dc-9610-b1e7e1244063,medals.melbourne,available,53.98,,medium,low,6,namecheap,,,
-e5ee037d-895f-4d54-b494-871698bae224,boss.melbourne,available,,,high,high,4,,,,
+fdd4bc73-7679-449c-b7d2-8d84690bec89,transferableskill.melbourne,available,53.98,,high,low,18,namecheap,,,
