@@ -1,10 +1,10 @@
-# Available .MELBOURNE One-Word Domains (33,436)
+# Available .MELBOURNE One-Word Domains (23,821)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C436%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C821%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .melbourne one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,436 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,821 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,436 domains · **Median ask:** $66.37 · **High-demand under $2,500:** 27
+**Public extract:** 1,000 rows · **Live catalog:** 23,821 domains · **Median ask:** $71.44 · **High-demand under $2,500:** 51
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/melbourne`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| rgb.melbourne  | available | $53.98    | —             | high           | low    | 3      | namecheap |
-| ads.melbourne  | premium   | $180.61   | —             | high           | medium | 3      | name.com  |
-| acre.melbourne | available | $53.98    | —             | high           | low    | 4      | namecheap |
-| ann.melbourne  | premium   | $181.30   | —             | high           | low    | 3      | name.com  |
-| aery.melbourne | available | $44.98    | $53.98        | high           | low    | 4      | namecheap |
-| awe.melbourne  | premium   | $179.77   | —             | high           | low    | 3      | name.com  |
-| agog.melbourne | available | $44.98    | $53.98        | high           | low    | 4      | namecheap |
-| bag.melbourne  | premium   | $58       | $58           | high           | low    | 3      | namesilo  |
-| alto.melbourne | available | $44.98    | $53.98        | high           | low    | 4      | namecheap |
-| beg.melbourne  | premium   | $181.28   | —             | high           | low    | 3      | name.com  |
-| amok.melbourne | available | $44.98    | $53.98        | high           | low    | 4      | namecheap |
-| bit.melbourne  | premium   | $179.15   | —             | high           | medium | 3      | name.com  |
-| arab.melbourne | available | $44.98    | $53.98        | high           | low    | 4      | namecheap |
-| boy.melbourne  | premium   | $448.28   | —             | high           | low    | 3      | name.com  |
-| arty.melbourne | available | $44.98    | $53.98        | high           | low    | 4      | namecheap |
-| btw.melbourne  | premium   | $181.30   | —             | high           | low    | 3      | name.com  |
-| auld.melbourne | available | $44.98    | $53.98        | medium         | low    | 4      | namecheap |
-| bug.melbourne  | premium   | $179.87   | —             | high           | low    | 3      | name.com  |
-| bald.melbourne | available | $44.98    | $53.98        | medium         | low    | 4      | namecheap |
-| bus.melbourne  | premium   | $449.88   | —             | high           | low    | 3      | name.com  |
+| any.melbourne  | available | $58       | $58           | high           | medium | 3      | namesilo  |
+| acc.melbourne  | premium   | $185.43   | $185.43       | high           | low    | 3      | namecheap |
+| eva.melbourne  | available | $58       | $58           | high           | medium | 3      | namesilo  |
+| bpi.melbourne  | premium   | $183.76   | $183.76       | high           | low    | 3      | namecheap |
+| hen.melbourne  | available | $58       | $58           | high           | low    | 3      | namesilo  |
+| bra.melbourne  | premium   | $179.62   | —             | high           | low    | 3      | name.com  |
+| liz.melbourne  | available | $58       | $58           | high           | low    | 3      | namesilo  |
+| den.melbourne  | premium   | $182.69   | $182.69       | high           | low    | 3      | namecheap |
+| yea.melbourne  | available | $58       | $58           | high           | low    | 3      | namesilo  |
+| fda.melbourne  | premium   | $91.35    | $91.35        | high           | low    | 3      | namecheap |
+| achy.melbourne | available | $44.98    | $53.98        | medium         | low    | 4      | namecheap |
+| gin.melbourne  | premium   | $91.35    | $91.35        | high           | low    | 3      | namecheap |
+| acid.melbourne | available | $44.98    | $53.98        | high           | low    | 4      | namecheap |
+| gur.melbourne  | premium   | $58       | $58           | medium         | low    | 3      | namesilo  |
+| acth.melbourne | available | $58       | $58           | medium         | low    | 4      | namesilo  |
+| hug.melbourne  | premium   | $90.56    | —             | high           | low    | 3      | name.com  |
+| adar.melbourne | available | $44.98    | $53.98        | medium         | low    | 4      | namecheap |
+| jra.melbourne  | premium   | $92.56    | $92.56        | medium         | low    | 3      | namecheap |
+| ames.melbourne | available | $58       | $58           | high           | low    | 4      | namesilo  |
+| log.melbourne  | premium   | $90.50    | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,436 live domains                        |
+| 1,000-row public sample | 23,821 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 27 high-demand names under $2,500          |
+| Basic exported fields   | 51 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
