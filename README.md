@@ -1,10 +1,10 @@
-# Available .MELBOURNE One-Word Domains (29,926)
+# Available .MELBOURNE One-Word Domains (32,303)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C926%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C303%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .melbourne one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,926 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,303 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,926 domains · **Median ask:** $65.94 · **High-demand under $2,500:** 74
+**Public extract:** 1,000 rows · **Live catalog:** 32,303 domains · **Median ask:** $64.83 · **High-demand under $2,500:** 87
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/melbourne`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| cca.melbourne | available | $58       | $58           | high           | low    | 3      | namesilo  |
-| acc.melbourne | premium   | $185.43   | $185.43       | high           | low    | 3      | namecheap |
-| cfa.melbourne | available | $58       | $58           | high           | low    | 3      | namesilo  |
-| bpi.melbourne | premium   | $183.76   | $183.76       | high           | low    | 3      | namecheap |
-| cfs.melbourne | available | $58       | $58           | high           | low    | 3      | namesilo  |
-| bra.melbourne | premium   | $168.48   | $168.48       | high           | low    | 3      | porkbun   |
-| coa.melbourne | available | $58       | $58           | high           | low    | 3      | namesilo  |
-| dar.melbourne | premium   | $182.12   | $182.12       | high           | low    | 3      | namecheap |
-| dma.melbourne | available | $58       | $58           | high           | low    | 3      | namesilo  |
-| den.melbourne | premium   | $182.69   | $182.69       | high           | low    | 3      | namecheap |
-| eva.melbourne | available | $58       | $58           | high           | medium | 3      | namesilo  |
-| dre.melbourne | premium   | $77.17    | $77.17        | high           | low    | 3      | dynadot   |
-| gui.melbourne | available | $58       | $58           | high           | low    | 3      | namesilo  |
-| ftp.melbourne | premium   | $91.07    | $91.07        | high           | low    | 3      | namecheap |
-| hen.melbourne | available | $58       | $58           | high           | low    | 3      | namesilo  |
-| gin.melbourne | premium   | $91.35    | $91.35        | high           | low    | 3      | namecheap |
-| hug.melbourne | available | $58       | $58           | high           | low    | 3      | namesilo  |
-| gur.melbourne | premium   | $58       | $58           | medium         | low    | 3      | namesilo  |
-| jin.melbourne | available | $58       | $58           | high           | low    | 3      | namesilo  |
-| jra.melbourne | premium   | $92.56    | $92.56        | medium         | low    | 3      | namecheap |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| write.melbourne      | available | $58       | $58           | high           | low    | 5      | namesilo  |
+| pandora.melbourne    | premium   | $455.30   | $455.30       | high           | medium | 7      | namecheap |
+| fleet.melbourne      | available | $44.98    | $53.98        | high           | high   | 5      | namecheap |
+| language.melbourne   | available | $58       | $58           | high           | low    | 8      | namesilo  |
+| sharp.melbourne      | available | $58       | $58           | high           | low    | 5      | namesilo  |
+| nationwide.melbourne | available | $58       | $58           | high           | medium | 10     | namesilo  |
+| consensus.melbourne  | available | $58       | $58           | high           | low    | 9      | namesilo  |
+| butterfly.melbourne  | available | $58       | $58           | high           | low    | 9      | namesilo  |
+| hug.melbourne        | available | $58       | $58           | high           | low    | 3      | namesilo  |
+| become.melbourne     | available | $58       | $58           | high           | low    | 6      | namesilo  |
+| religion.melbourne   | available | $44.98    | $53.98        | high           | low    | 8      | namecheap |
+| joke.melbourne       | available | $58       | $58           | high           | low    | 4      | namesilo  |
+| protected.melbourne  | available | $58       | $58           | high           | low    | 9      | namesilo  |
+| production.melbourne | premium   | $185.12   | $185.12       | high           | low    | 10     | namecheap |
+| riyadh.melbourne     | available | $58       | $58           | high           | low    | 6      | namesilo  |
+| policy.melbourne     | available | $42.36    | $42.36        | high           | low    | 6      | dynadot   |
+| silly.melbourne      | available | $58       | $58           | high           | low    | 5      | namesilo  |
+| happening.melbourne  | available | $58       | $58           | high           | low    | 9      | namesilo  |
+| trip.melbourne       | premium   | $58       | $58           | high           | low    | 4      | namesilo  |
+| content.melbourne    | available | $42.20    | $42.20        | high           | medium | 7      | dynadot   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,926 live domains                        |
+| 1,000-row public sample | 32,303 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 74 high-demand names under $2,500          |
+| Basic exported fields   | 87 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MELBOURNE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
